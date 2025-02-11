@@ -281,7 +281,7 @@
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711"
                   >
                     <a
-                      href="https://globefarer.qodeinteractive.com/404-error-page"
+                      href="./
                       ><span class="qodef-menu-item-text"
                         ><svg
                           class="qodef-svg--plus qodef-menu-item-plus"
@@ -1558,7 +1558,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/404-error-page"
+                        href="./
                         ><span class="qodef-menu-item-text"
                           ><svg
                             class="qodef-svg--plus qodef-menu-item-plus"
@@ -2706,9 +2706,8 @@
                 <li
                   class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711"
                 >
-                  <a
-                    href="https://globefarer.qodeinteractive.com/404-error-page"
-                    ><span class="qodef-menu-item-text"
+                  <a href="./404-error-page"
+                    href="./
                       ><svg
                         class="qodef-svg--plus qodef-menu-item-plus"
                         xmlns="http://www.w3.org/2000/svg"

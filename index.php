@@ -1294,7 +1294,7 @@ ini_set('display_errors', 1);
                                 At New World Investments Limited, we’re dedicated to simplifying your import journey. We recognize the challenges that importers face when bringing goods from China to Zambia and we are on a mission to provide cost-effective courier services tailored specifically for the Zambia-China market.
                                 </p>
                                 <a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual qodef-html--link"
-                                  href="https://globefarer.qodeinteractive.com/our-services/" target="_self">
+                                  href="./our-services/" target="_self">
                                   <span class="qodef-m-button-icon"><svg class="qodef-svg--plus"
                                       xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                                       width="14" height="14" viewBox="0 0 14 14">
@@ -1452,7 +1452,7 @@ ini_set('display_errors', 1);
                                   nusqua ius ea has autem aeterno divine sum.
                                 </p>
                                 <a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual qodef-html--link"
-                                  href="https://globefarer.qodeinteractive.com/about-us/" target="_self">
+                                  href="./about-us/" target="_self">
                                   <span class="qodef-m-button-icon"><svg class="qodef-svg--plus"
                                       xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                                       width="14" height="14" viewBox="0 0 14 14">

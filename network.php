@@ -386,13 +386,13 @@
 				</div>
 				<div class="qodef-widget-holder qodef--right">
 					<div id="globefarer_core_icon_list_item-17" class="widget widget_globefarer_core_icon_list_item qodef-top-bar-widget">
-						<div class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific"> <span class="qodef-m-list-title"> <a itemprop="url" href="https://globefarer.qodeinteractive.com/get-in-touch/" target="_self"> <span class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img loading="lazy" width="20" height="17" src="wp-content/uploads/2021/08/Support-Icon-top-header-1.png" class="attachment-full size-full" alt="d" decoding="async" /> </span> <span class="qodef-m-list-title-text">Support 24/7</span> </span> </a> </span></div>
+						<div class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific"> <span class="qodef-m-list-title"> <a itemprop="url" href="./get-in-touch/" target="_self"> <span class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img loading="lazy" width="20" height="17" src="wp-content/uploads/2021/08/Support-Icon-top-header-1.png" class="attachment-full size-full" alt="d" decoding="async" /> </span> <span class="qodef-m-list-title-text">Support 24/7</span> </span> </a> </span></div>
 					</div>
 					<div id="block-42" class="widget widget_block qodef-top-bar-widget">
 						<hr class="wp-block-separator has-text-color has-background has-white-background-color has-white-color" />
 					</div>
 					<div id="globefarer_core_icon_list_item-18" class="widget widget_globefarer_core_icon_list_item qodef-top-bar-widget">
-						<div class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific"> <span class="qodef-m-list-title"> <a itemprop="url" href="https://globefarer.qodeinteractive.com/step-1-3" target="_self"> <span class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img loading="lazy" width="14" height="18" src="wp-content/uploads/2021/08/Tracking-Icon-1.png" class="attachment-full size-full" alt="d" decoding="async" /> </span> <span class="qodef-m-list-title-text">Track and Trace</span> </span> </a> </span></div>
+						<div class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific"> <span class="qodef-m-list-title"> <a itemprop="url" href="./step-1-3" target="_self"> <span class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img loading="lazy" width="14" height="18" src="wp-content/uploads/2021/08/Tracking-Icon-1.png" class="attachment-full size-full" alt="d" decoding="async" /> </span> <span class="qodef-m-list-title-text">Track and Trace</span> </span> </a> </span></div>
 					</div>
 				</div>
 			</div>
@@ -481,7 +481,7 @@
 														<path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
 														<path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
 													</svg>FAQ Page</span></a></li>
-										<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711"><a href="https://globefarer.qodeinteractive.com/404-error-page"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+										<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711"><a href="./404-error-page"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
 														<path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
 														<path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
 													</svg>404 Error Page</span></a></li>
@@ -771,7 +771,7 @@
 													<path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
 													<path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
 												</svg>FAQ Page</span></a></li>
-									<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711"><a href="https://globefarer.qodeinteractive.com/404-error-page"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+									<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711"><a href="./404-error-page"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
 													<path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
 													<path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
 												</svg>404 Error Page</span></a></li>

@@ -45,7 +45,7 @@
         data-area="side-area"
       >
         <figure class="wp-block-image size-full">
-          <a href="https://globefarer.qodeinteractive.com/"
+          <a href="./"
             ><img
               decoding="async"
               src="wp-content/uploads/2025/01/2-1.png"

@@ -41,7 +41,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-937"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/about-us/"
+                        href="./about-us/"
                         >About Us</a
                       >
                     </li>
@@ -50,7 +50,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-938"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/team/victoria-simens/"
+                        href="./team/victoria-simens/"
                         >Our Team</a
                       >
                     </li>
@@ -59,7 +59,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-939"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/our-clients/"
+                        href="./our-clients/"
                         >Our Clients</a
                       >
                     </li>
@@ -68,7 +68,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-940"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/meet-the-crew/"
+                        href="./meet-the-crew/"
                         >Meet The Crew</a
                       >
                     </li>
@@ -77,7 +77,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-941"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/available-positions/"
+                        href="./available-positions/"
                         >Available Positions</a
                       >
                     </li>
@@ -86,7 +86,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-942"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/career-item/stocking-associate/"
+                        href="./career-item/stocking-associate/"
                         >Job Application</a
                       >
                     </li>
@@ -108,7 +108,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-943"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/our-services/"
+                        href="./our-services/"
                         >Our Services</a
                       >
                     </li>
@@ -117,7 +117,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-944"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/what-we-do/"
+                        href="./
                         >What We Do</a
                       >
                     </li>
@@ -126,7 +126,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-945"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/step-1-3/"
+                        href="./
                         >Request a Freight</a
                       >
                     </li>
@@ -135,7 +135,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-946"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/step-1-3/"
+                        href="./
                         >Track &amp; Trace</a
                       >
                     </li>
@@ -144,7 +144,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-947"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/air-freight/"
+                        href="./
                         >Air Freight</a
                       >
                     </li>
@@ -153,7 +153,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-948"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/rail-freight/"
+                        href="./rail-freight/"
                         >Rail Freight</a
                       >
                     </li>
@@ -162,7 +162,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-949"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/maritime-transport/"
+                        href="./maritime-transport/"
                         >Maritime Transport</a
                       >
                     </li>
@@ -184,7 +184,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-950"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/get-in-touch/"
+                        href="./get-in-touch/"
                         >Find Us Here</a
                       >
                     </li>
@@ -193,7 +193,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-951"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/get-in-touch/"
+                        href="./get-in-touch/"
                         >Get In Touch</a
                       >
                     </li>
@@ -202,7 +202,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-952"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/faq-page/"
+                        href="./faq-page/"
                         >FAQ Page</a
                       >
                     </li>
@@ -211,7 +211,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-953"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/global-network/"
+                        href="./global-network/"
                         >Global Network</a
                       >
                     </li>
@@ -220,7 +220,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-954"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/get-in-touch/"
+                        href="./get-in-touch/"
                         >Support 24/7</a
                       >
                     </li>
@@ -242,7 +242,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-955"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/expert-tips/"
+                        href="./expert-tips/"
                         >Expert Tips</a
                       >
                     </li>
@@ -251,7 +251,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-956"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/a-sustainable-future/"
+                        href="./a-sustainable-future/"
                         >A Sustainable Future</a
                       >
                     </li>
@@ -260,7 +260,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-957"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/fresh-start/"
+                        href="./fresh-start/"
                         >Fresh Start</a
                       >
                     </li>
@@ -269,7 +269,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-958"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/clean-spaces/"
+                        href="./clean-spaces/"
                         >Clean Spaces</a
                       >
                     </li>
@@ -278,7 +278,7 @@
                       class="menu-item menu-item-type-custom menu-item-object-custom menu-item-959"
                     >
                       <a
-                        href="https://globefarer.qodeinteractive.com/tips-and-strategies/"
+                        href="./tips-and-strategies/"
                         >Tips &amp; Strategies</a
                       >
                     </li>

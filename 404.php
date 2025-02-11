@@ -22,8 +22,8 @@
     <link rel='dns-prefetch' href='//export.qodethemes.com' />
     <link rel='dns-prefetch' href='//static.zdassets.com' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-    <link rel="alternate" type="application/rss+xml" title="Newworld Cargo &raquo; Feed" href="https://globefarer.qodeinteractive.com/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Newworld Cargo &raquo; Comments Feed" href="https://globefarer.qodeinteractive.com/comments/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Newworld Cargo &raquo; Feed" href="./feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Newworld Cargo &raquo; Comments Feed" href="./comments/feed/" />
     <script type="text/javascript">
         /* <![CDATA[ */
         window._wpemojiSettings = {
@@ -759,8 +759,8 @@
       async
       id="revmin-js"
     ></script>
-    <link rel="https://api.w.org/" href="https://globefarer.qodeinteractive.com/wp-json/" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://globefarer.qodeinteractive.com/xmlrpc.php?rsd" />
+    <link rel="https://api.w.org/" href="./wp-json/" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="./xmlrpc.php?rsd" />
     <meta name="generator" content="WordPress 6.7.1" />
 
 
@@ -922,35 +922,35 @@
                             <div class="qodef-drop-down-second">
                                 <div class="qodef-drop-down-second-inner">
                                     <ul class="sub-menu">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-762"><a href="https://globefarer.qodeinteractive.com/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-762"><a href="./"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Main Home</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1143"><a href="https://globefarer.qodeinteractive.com/cargo-shipping/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1143"><a href="./cargo-shipping/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Cargo Shipping</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2516"><a href="https://globefarer.qodeinteractive.com/maritime-transport/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2516"><a href="./maritime-transport/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Maritime Transport</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="https://globefarer.qodeinteractive.com/air-freight/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="./air-freight/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Air Freight</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1780"><a href="https://globefarer.qodeinteractive.com/rail-freight/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1780"><a href="./rail-freight/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Rail Freight</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6680"><a href="https://globefarer.qodeinteractive.com/coming-soon/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6680"><a href="./coming-soon/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Coming Soon</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1142"><a href="https://globefarer.qodeinteractive.com/divided-slider-home/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1142"><a href="./divided-slider-home/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Divided Slider Home</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5224"><a href="https://globefarer.qodeinteractive.com/landing/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5224"><a href="./landing/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Landing</span></a></li>
@@ -965,35 +965,35 @@
                             <div class="qodef-drop-down-second">
                                 <div class="qodef-drop-down-second-inner">
                                     <ul class="sub-menu">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2638"><a href="https://globefarer.qodeinteractive.com/about-us/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2638"><a href="./about-us/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>About Us</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-team menu-item-3439"><a href="https://globefarer.qodeinteractive.com/team/mary-simens/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-team menu-item-3439"><a href="./team/mary-simens/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Our Team</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3438"><a href="https://globefarer.qodeinteractive.com/meet-the-crew/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3438"><a href="./meet-the-crew/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Meet The Crew</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-career-item menu-item-3596"><a href="https://globefarer.qodeinteractive.com/career-item/stocking-associate/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-career-item menu-item-3596"><a href="./career-item/stocking-associate/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Job Application</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4022"><a href="https://globefarer.qodeinteractive.com/available-positions/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4022"><a href="./available-positions/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Available Positions</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3136"><a href="https://globefarer.qodeinteractive.com/our-clients/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3136"><a href="./our-clients/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Our Clients</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3176"><a href="https://globefarer.qodeinteractive.com/faq-page/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3176"><a href="./faq-page/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>FAQ Page</span></a></li>
-                                        <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-4573"><a href="https://globefarer.qodeinteractive.com/404-error-page"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-4573"><a href="./404-error-page"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>404 Error Page</span></a></li>
@@ -1008,15 +1008,15 @@
                             <div class="qodef-drop-down-second">
                                 <div class="qodef-drop-down-second-inner">
                                     <ul class="sub-menu">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2715"><a href="https://globefarer.qodeinteractive.com/our-services/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2715"><a href="./our-services/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Our Services</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3137"><a href="https://globefarer.qodeinteractive.com/what-we-do/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3137"><a href="./what-we-do/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>What We Do</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3450"><a href="https://globefarer.qodeinteractive.com/step-1-3/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3450"><a href="./step-1-3/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Request a Freight</span></a></li>
@@ -1031,15 +1031,15 @@
                             <div class="qodef-drop-down-second">
                                 <div class="qodef-drop-down-second-inner">
                                     <ul class="sub-menu">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3007"><a href="https://globefarer.qodeinteractive.com/blog/right-sidebar/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3007"><a href="./blog/right-sidebar/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Right Sidebar</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3006"><a href="https://globefarer.qodeinteractive.com/blog/left-sidebar/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3006"><a href="./blog/left-sidebar/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Left Sidebar</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3005"><a href="https://globefarer.qodeinteractive.com/blog/no-sidebar/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3005"><a href="./blog/no-sidebar/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>No Sidebar</span></a></li>
@@ -1051,31 +1051,31 @@
                                                         <path d="M0,0H10V2H0Z" transform="translate(7.071 8.485) rotate(-135)" />
                                                     </svg></span></a>
                                             <ul class="sub-menu">
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2806"><a href="https://globefarer.qodeinteractive.com/electric-wave-motion/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2806"><a href="./electric-wave-motion/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                                 <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                                 <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                             </svg>Standard Post</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2805"><a href="https://globefarer.qodeinteractive.com/the-hidden-gems/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2805"><a href="./the-hidden-gems/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                                 <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                                 <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                             </svg>Gallery Post</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2804"><a href="https://globefarer.qodeinteractive.com/creating-memories/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2804"><a href="./creating-memories/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                                 <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                                 <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                             </svg>Quote Post</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2803"><a href="https://globefarer.qodeinteractive.com/large-scale-fishing/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2803"><a href="./large-scale-fishing/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                                 <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                                 <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                             </svg>Link Post</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2802"><a href="https://globefarer.qodeinteractive.com/the-industrial-proletariat/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2802"><a href="./the-industrial-proletariat/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                                 <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                                 <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                             </svg>Audio Post</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2801"><a href="https://globefarer.qodeinteractive.com/a-sustainable-future/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2801"><a href="./a-sustainable-future/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                                 <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                                 <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                             </svg>Video Post</span></a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2800"><a href="https://globefarer.qodeinteractive.com/tips-and-strategies/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2800"><a href="./tips-and-strategies/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                                 <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                                 <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                             </svg>No Sidebar Post</span></a></li>
@@ -1092,11 +1092,11 @@
                             <div class="qodef-drop-down-second">
                                 <div class="qodef-drop-down-second-inner">
                                     <ul class="sub-menu">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3254"><a href="https://globefarer.qodeinteractive.com/get-in-touch/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3254"><a href="./get-in-touch/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Get in Touch</span></a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3228"><a href="https://globefarer.qodeinteractive.com/global-network/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3228"><a href="./global-network/"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                                     </svg>Global Network</span></a></li>
@@ -1183,7 +1183,7 @@
                             <h1 class="qodef-404-title">Error page 404 nn</h1>
                             <p class="qodef-404-text">The page you are looking for doesn&#039;t exist. Return to the website&#039;s homepage to find what you&#039;re looking for.</p>
                             <div class="qodef-404-button">
-                                <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link" href="https://globefarer.qodeinteractive.com/" target="_self"> <span class="qodef-m-button-icon"><svg class="qodef-svg--plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                                <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link" href="./" target="_self"> <span class="qodef-m-button-icon"><svg class="qodef-svg--plus" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                                             <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                                             <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                                         </svg></span> <span class="qodef-m-button-text">Back to home</span> </a>
