@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<!-- Mirrored from localhost/nwc/?page_id=3193 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Jan 2025 01:09:45 GMT -->
+<!-- Mirrored from localhost/nwc/?page_id=3235 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Jan 2025 01:09:35 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -9,7 +9,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 
-	<title>Global Network &#8211; New world cargo</title>
+	<title>Get in Touch &#8211; Newworld Cargo</title>
 	<meta name='robots' content='max-image-preview:large' />
 	<style>
 		img:is([sizes="auto" i], [sizes^="auto," i]) {
@@ -33,7 +33,7 @@
 			}
 		};
 		/*! This file is auto-generated */
-		! function (i, n) {
+		! function(i, n) {
 			var o, s, e;
 
 			function c(e) {
@@ -43,14 +43,14 @@
 						timestamp: (new Date).valueOf()
 					};
 					sessionStorage.setItem(o, JSON.stringify(t))
-				} catch (e) { }
+				} catch (e) {}
 			}
 
 			function p(e, t, n) {
 				e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
 				var t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data),
 					r = (e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0), new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data));
-				return t.every(function (e, t) {
+				return t.every(function(e, t) {
 					return e === r[t]
 				})
 			}
@@ -71,7 +71,7 @@
 						willReadFrequently: !0
 					}),
 					o = (a.textBaseline = "top", a.font = "600 32px Arial", {});
-				return e.forEach(function (e) {
+				return e.forEach(function(e) {
 					o[e] = t(a, e, n)
 				}), o
 			}
@@ -83,16 +83,16 @@
 			"undefined" != typeof Promise && (o = "wpEmojiSettingsSupports", s = ["flag", "emoji"], n.supports = {
 				everything: !0,
 				everythingExceptFlag: !0
-			}, e = new Promise(function (e) {
+			}, e = new Promise(function(e) {
 				i.addEventListener("DOMContentLoaded", e, {
 					once: !0
 				})
-			}), new Promise(function (t) {
-				var n = function () {
+			}), new Promise(function(t) {
+				var n = function() {
 					try {
 						var e = JSON.parse(sessionStorage.getItem(o));
 						if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests
-					} catch (e) { }
+					} catch (e) {}
 					return null
 				}();
 				if (!n) {
@@ -104,21 +104,21 @@
 							a = new Worker(URL.createObjectURL(r), {
 								name: "wpTestEmojiSupports"
 							});
-						return void (a.onmessage = function (e) {
+						return void(a.onmessage = function(e) {
 							c(n = e.data), a.terminate(), t(n)
 						})
-					} catch (e) { }
+					} catch (e) {}
 					c(n = f(s, u, p))
 				}
 				t(n)
-			}).then(function (e) {
+			}).then(function(e) {
 				for (var t in e) n.supports[t] = e[t], n.supports.everything = n.supports.everything && n.supports[t], "flag" !== t && (n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && n.supports[t]);
-				n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && !n.supports.flag, n.DOMReady = !1, n.readyCallback = function () {
+				n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && !n.supports.flag, n.DOMReady = !1, n.readyCallback = function() {
 					n.DOMReady = !0
 				}
-			}).then(function () {
+			}).then(function() {
 				return e
-			}).then(function () {
+			}).then(function() {
 				var e;
 				n.supports.everything || (n.readyCallback(), (e = n.source || {}).concatemoji ? t(e.concatemoji) : e.wpemoji && e.twemoji && (t(e.twemoji), t(e.wpemoji)))
 			}))
@@ -267,18 +267,14 @@
 		}
 
 		.qodef-page-title {
-			height: 353px;
-			background-color: #f7c600;
+			height: 92px;
+			background-color: transparent;
 		}
 
 		@media only screen and (max-width: 1024px) {
 			.qodef-page-title {
-				height: 353px;
+				height: 125px;
 			}
-		}
-
-		.qodef-header--standard #qodef-page-header {
-			background-color: #f7c600;
 		}
 
 		.qodef-header--standard #qodef-page-header-inner {
@@ -307,6 +303,12 @@
 				line-height: 45px;
 			}
 		}
+
+		.map-overlay {
+			top: 10px;
+			left: 10px;
+
+		}
 	</style>
 	<link rel='stylesheet' id='globefarer-core-elementor-css'
 		href='wp-content/plugins/globefarer-core/inc/plugins/elementor/assets/css/elementor.min9704.css?ver=6.7.1'
@@ -317,8 +319,8 @@
 		href='wp-content/uploads/elementor/css/post-7ad9c.css?ver=1738195901' type='text/css' media='all' />
 	<link rel='stylesheet' id='sbistyles-css'
 		href='wp-content/plugins/instagram-feed/css/sbi-styles.minb6a4.css?ver=6.6.1' type='text/css' media='all' />
-	<link rel='stylesheet' id='elementor-post-3193-css'
-		href='wp-content/uploads/elementor/css/post-3193f693.css?ver=1738198131' type='text/css' media='all' />
+	<link rel='stylesheet' id='elementor-post-3235-css'
+		href='wp-content/uploads/elementor/css/post-32358249.css?ver=1738198122' type='text/css' media='all' />
 	<link rel='stylesheet' id='google-fonts-1-css'
 		href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.7.1'
 		type='text/css' media='all' />
@@ -327,15 +329,15 @@
 	<script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1"
 		id="jquery-migrate-js"></script>
 	<link rel="https://api.w.org/" href="index52f0.json?rest_route=/" />
-	<link rel="alternate" title="JSON" type="application/json" href="indexe905.json?rest_route=/wp/v2/pages/3193" />
+	<link rel="alternate" title="JSON" type="application/json" href="index4e8b.json?rest_route=/wp/v2/pages/3235" />
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 	<meta name="generator" content="WordPress 6.7.1" />
-	<link rel="canonical" href="network.php?page_id=3193" />
-	<link rel='shortlink' href='index539d.html?p=3193' />
+	<link rel="canonical" href="index0e30.html?page_id=3235" />
+	<link rel='shortlink' href='indexc416.html?p=3235' />
 	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"
-		href="indexa5c5.json?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=http%3A%2F%2Flocalhost%2Fnwc%2F%3Fpage_id%3D3193" />
+		href="indexf842.json?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=http%3A%2F%2Flocalhost%2Fnwc%2F%3Fpage_id%3D3235" />
 	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"
-		href="index2c39.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=http%3A%2F%2Flocalhost%2Fnwc%2F%3Fpage_id%3D3193&amp;format=xml" />
+		href="index0a54.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=http%3A%2F%2Flocalhost%2Fnwc%2F%3Fpage_id%3D3235&amp;format=xml" />
 	<meta name="generator"
 		content="Elementor 3.27.1; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
 	<style>
@@ -422,90 +424,106 @@
 </head>
 
 <body
-	class="page-template page-template-page-full-width page-template-page-full-width-php page page-id-3193 qi-blocks-1.3.4 qodef-gutenberg--no-touch qode-framework-1.2.2 qodef-qi--no-touch qi-addons-for-elementor-1.8.4 qodef-back-to-top--enabled qodef-custom-cursor--enabled qodef-fullscreen-menu--hide-logo qodef-fullscreen-menu--hide-widget-area  qodef-header--standard qodef-header-appearance--none qodef-mobile-header--standard qodef-drop-down-second--full-width qodef-drop-down-second--default New World Cargo-core-1.1 New World Cargo-child-1.0 New World Cargo-1.2.1 qodef-content-grid-1400 qodef-header-standard--right elementor-default elementor-kit-7 elementor-page elementor-page-3193"
+	class="page-template page-template-page-full-width page-template-page-full-width-php page page-id-3235 qi-blocks-1.3.4 qodef-gutenberg--no-touch qode-framework-1.2.2 qodef-qi--no-touch qi-addons-for-elementor-1.8.4 qodef-back-to-top--enabled qodef-custom-cursor--enabled qodef-fullscreen-menu--hide-logo qodef-fullscreen-menu--hide-widget-area  qodef-header--standard qodef-header-appearance--none qodef-mobile-header--standard qodef-drop-down-second--full-width qodef-drop-down-second--default Newworld Cargo-core-1.1 Newworld Cargo-child-1.0 Newworld Cargo-1.2.1 qodef-content-grid-1400 qodef-header-standard--right elementor-default elementor-kit-7 elementor-page elementor-page-3235"
 	itemscope itemtype="https://schema.org/WebPage">
 	<a class="skip-link screen-reader-text" href="#qodef-page-content">Skip to the content</a>
 	<div id="qodef-page-wrapper" class="">
 		<div id="qodef-menu-cover"></div>
-		
+
 		<?php include 'components/Header.php' ?>
 		<div id="qodef-page-outer">
-			<div
-				class="qodef-page-title qodef-m qodef-title--standard qodef-alignment--left qodef-vertical-alignment--header-bottom qodef-page-title-area-cursor--dark">
-				<div class="qodef-m-inner">
-					<div class="qodef-m-content qodef-content-grid ">
-						<h1 class="qodef-m-title entry-title">
-							Global Network </h1>
-					</div>
-				</div>
-			</div>
 			<div id="qodef-page-inner" class="qodef-content-full-width">
 				<main id="qodef-page-content" class="qodef-grid qodef-layout--template " role="main">
 					<div class="qodef-grid-inner clear">
 						<div class="qodef-grid-item qodef-page-content-section qodef-col--12">
-							<div data-elementor-type="wp-page" data-elementor-id="3193" class="elementor elementor-3193"
+							<div data-elementor-type="wp-page" data-elementor-id="3235" class="elementor elementor-3235"
 								data-elementor-post-type="page">
 								<section
-									class="elementor-section elementor-top-section elementor-element elementor-element-466a360 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
-									data-id="466a360" data-element_type="section">
+									class="elementor-section elementor-top-section elementor-element elementor-element-7c560f4 elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no"
+									data-id="7c560f4" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-45b1c80"
-											data-id="45b1c80" data-element_type="column">
+										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d9837a0"
+											data-id="d9837a0" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-3589b86 elementor-widget elementor-widget-globefarer_core_section_title"
-													data-id="3589b86" data-element_type="widget"
-													data-widget_type="globefarer_core_section_title.default">
+												<div class="elementor-element elementor-element-1befe17 elementor-widget elementor-widget-globefarer_core_google_map"
+													data-id="1befe17" data-element_type="widget"
+													data-widget_type="globefarer_core_google_map.default">
 													<div class="elementor-widget-container">
 														<div
-															class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef-appear-animation--no">
-															<h2 class="qodef-m-title">
-																Southern Africa</h2>
+															class="map-overlay qodef-shortcode qodef-m  qodef-google-map">
+															<div class="qodef-m-map" id="qodef-map-id--902"
+																data-pin=./wp-content/uploads/2021/08/Pin-1.png
+																data-unique-id=902 data-height=700> <iframe
+																	src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3846.014446735693!2d28.278433208841744!3d-15.429771614016875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1940f343efb77c19%3A0xb2411d43bd35321!2sCarousel%20Shopping%20Centre!5e0!3m2!1sen!2szm!4v1739262336436!5m2!1sen!2szm"
+																	width="600" height="450" style="border:0;"
+																	allowfullscreen="" loading="lazy"
+																	referrerpolicy="no-referrer-when-downgrade"></iframe>
+															</div>
 														</div>
 													</div>
 												</div>
 											</div>
 										</div>
-									</div>
+									</div><iframe src="" width="600" height="50" style="border:0;" allowfullscreen=""
+										loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 								</section>
+
+
 								<section
-									class="elementor-section elementor-top-section elementor-element elementor-element-12c292b elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
-									data-id="12c292b" data-element_type="section">
+									class="elementor-section elementor-top-section elementor-element elementor-element-d3db1c5 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
+									data-id="d3db1c5" data-element_type="section">
 									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0e08027"
-											data-id="0e08027" data-element_type="column">
+										<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-425ca96"
+											data-id="425ca96" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-4349deb elementor-widget elementor-widget-globefarer_core_linked_titles_grid"
-													data-id="4349deb" data-element_type="widget"
-													data-widget_type="globefarer_core_linked_titles_grid.default">
+												<div class="elementor-element elementor-element-66bfc3e elementor-widget elementor-widget-globefarer_core_section_title"
+													data-id="66bfc3e" data-element_type="widget"
+													data-widget_type="globefarer_core_section_title.default">
 													<div class="elementor-widget-container">
-														<div class="qodef-shortcode qodef-m  qodef-linked-titles-grid qodef-grid qodef-layout--columns  qodef-gutter--medium qodef-col-num--4  qodef-responsive--predefined"
-															style="border-top: 1px solid;border-bottom: 1px solid;border-color: #01264259;padding-top: 40px">
-															<div class="qodef-grid-inner clear">
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				Zambia </a>
-																		</h4>
-																	</div>
+														<div
+															class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef-appear-animation--no">
+															<h2 class="qodef-m-title">
+																Get in touch with us </h2>
+															<p class="qodef-m-text" style="margin-top: 27px">New World
+																Cargo we strive to provide all customers – large and
+																small – with world-class levels of support, care and
+																commitment.</p>
+														</div>
+													</div>
+												</div>
+												<div class="elementor-element elementor-element-8dcb04c elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-globefarer_core_contact_info"
+													data-id="8dcb04c" data-element_type="widget"
+													data-widget_type="globefarer_core_contact_info.default">
+													<div class="elementor-widget-container">
+														<div
+															class="qodef-shortcode qodef-m  qodef-contact-info qodef-layout--type-2 ">
+															<div class="qodef-m-phone">
+																<h6 class="qodef-m-phone-tagline">
+																	Support Center 24/7 </h6>
+																<h2 class="qodef-m-phone-item"> 
+																	<a itemprop="telephone"
+																		href="tel:+260 763 297 287">
+																		+260 763 297 287 </a>
+																	<a itemprop="telephone"
+																		href="tel: +260 763 313 193"> +260 763 313 193</a>
+																</h2>
+															</div>
+															<div class="qodef-m-address-email">
+																<div class="qodef-m-address">
+																	<h6 class="qodef-m-address-tagline">
+																		Our Location </h6>
+																	<h5 class="qodef-m-address-item"> <a
+																			href="https://www.google.com/maps/place/Carousel+Shopping+Centre/@-15.4297768,-8.633049,4z/data=!4m10!1m2!2m1!1scarouselshoppingcenter!3m6!1s0x1940f343efb77c19:0xb2411d43bd35321!8m2!3d-15.4297768!4d28.2810135!15sChZjYXJvdXNlbHNob3BwaW5nY2VudGVyWhgiFmNhcm91c2Vsc2hvcHBpbmdjZW50ZXKSAQ9zaG9wcGluZ19jZW50ZXLgAQA!16s%2Fg%2F1ptxn2268?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D"
+																			target="_blank" rel="noopener">Shop 62/A, <br />Carousel Shopping Centre
+																			Lusaka, Zambia.</a> </h5>
 																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-
-																	</div>
+																<div class="qodef-m-email">
+																	<h6 class="qodef-m-email-tagline">
+																		Write To Us </h6>
+																	<h5 class="qodef-m-email-item"> <a itemprop="email"
+																			href="mailto:info@newworldcargo.com">
+																			info@newworldcargo.com </a>
+																	</h5>
 																</div>
 															</div>
 														</div>
@@ -513,259 +531,113 @@
 												</div>
 											</div>
 										</div>
-									</div>
-								</section>
-								<section
-									class="elementor-section elementor-top-section elementor-element elementor-element-2ce6b47 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
-									data-id="2ce6b47" data-element_type="section">
-									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3f0ff6f"
-											data-id="3f0ff6f" data-element_type="column">
+										<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ca1997c"
+											data-id="ca1997c" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-6f8dc0f elementor-widget elementor-widget-globefarer_core_section_title"
-													data-id="6f8dc0f" data-element_type="widget"
-													data-widget_type="globefarer_core_section_title.default">
+												<div class="elementor-element elementor-element-69db32f elementor-widget elementor-widget-wp-widget-globefarer_core_contact_form_7"
+													data-id="69db32f" data-element_type="widget"
+													data-widget_type="wp-widget-globefarer_core_contact_form_7.default">
 													<div class="elementor-widget-container">
-														<div
-															class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef-appear-animation--no">
-															<h2 class="qodef-m-title">
-																Middle East </h2>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-								<section
-									class="elementor-section elementor-top-section elementor-element elementor-element-e5402b1 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
-									data-id="e5402b1" data-element_type="section">
-									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0c8775d"
-											data-id="0c8775d" data-element_type="column">
-											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-4a4e7d4 elementor-widget elementor-widget-globefarer_core_linked_titles_grid"
-													data-id="4a4e7d4" data-element_type="widget"
-													data-widget_type="globefarer_core_linked_titles_grid.default">
-													<div class="elementor-widget-container">
-														<div class="qodef-shortcode qodef-m  qodef-linked-titles-grid qodef-grid qodef-layout--columns  qodef-gutter--medium qodef-col-num--4  qodef-responsive--predefined"
-															style="border-top: 1px solid;border-bottom: 1px solid;border-color: #01264259;padding-top: 40px">
-															<div class="qodef-grid-inner clear">
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				United Arab Emirates (Dubai) </a>
-																		</h4>
-																	</div>
+														<div class="qodef-contact-form-7">
+
+															<div class="wpcf7 no-js" id="wpcf7-f2429-p3235-o2"
+																lang="en-US" dir="ltr" data-wpcf7-id="2429">
+																<div class="screen-reader-response">
+																	<p role="status" aria-live="polite"
+																		aria-atomic="true"></p>
+																	<ul></ul>
 																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				Turkey </a>
-																		</h4>
+																<form
+																	action="http://localhost/nwc/?page_id=3235#wpcf7-f2429-p3235-o2"
+																	method="post" class="wpcf7-form init"
+																	aria-label="Contact form" novalidate="novalidate"
+																	data-status="init">
+																	<div style="display: none;">
+																		<input type="hidden" name="_wpcf7"
+																			value="2429" />
+																		<input type="hidden" name="_wpcf7_version"
+																			value="6.0.3" />
+																		<input type="hidden" name="_wpcf7_locale"
+																			value="en_US" />
+																		<input type="hidden" name="_wpcf7_unit_tag"
+																			value="wpcf7-f2429-p3235-o2" />
+																		<input type="hidden"
+																			name="_wpcf7_container_post" value="3235" />
+																		<input type="hidden"
+																			name="_wpcf7_posted_data_hash" value="" />
 																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				Saudi Arabia </a>
-																		</h4>
+																	<div class="qodef-m-input">
+																		<div class="qodef-m-input-holder"><label><span
+																					class="qodef-m-input-label">Your
+																					Name</span><span
+																					class="wpcf7-form-control-wrap"
+																					data-name="name"><input size="40"
+																						maxlength="400"
+																						class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+																						aria-required="true"
+																						aria-invalid="false" value=""
+																						type="text"
+																						name="name" /></span></label>
+																		</div>
+																		<div class="qodef-m-input-holder"><label><span
+																					class="qodef-m-input-label">Your
+																					eMail</span><span
+																					class="wpcf7-form-control-wrap"
+																					data-name="email"><input size="40"
+																						maxlength="400"
+																						class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+																						aria-required="true"
+																						aria-invalid="false" value=""
+																						type="text"
+																						name="email" /></span></label>
+																		</div>
+																		<div class="qodef-m-input-holder"><label><span
+																					class="qodef-m-input-label">Message</span><span
+																					class="wpcf7-form-control-wrap"
+																					data-name="message"><textarea
+																						cols="40" rows="5"
+																						maxlength="2000"
+																						class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required"
+																						aria-required="true"
+																						aria-invalid="false"
+																						name="message"></textarea></span></label>
+																		</div>
+																		<div class="qodef-m-input-buttons">
+																			<button
+																				class="wpcf7-form-control wpcf7-submit qodef-button qodef-size--normal qodef-layout--filled qodef-m"
+																				type="submit"><span
+																					class="qodef-m-button-icon"><svg
+																						class="qodef-svg--plus"
+																						xmlns="http://www.w3.org/2000/svg"
+																						xmlns:xlink="http://www.w3.org/1999/xlink"
+																						width="14" height="14"
+																						viewBox="0 0 14 14">
+																						<path class="qodef-m-horizontal"
+																							d="M0,0H14V2H0Z"
+																							transform="translate(0 6)" />
+																						<path class="qodef-m-vertical"
+																							d="M0,0H2V14H0Z"
+																							transform="translate(6)" />
+																					</svg></span><span
+																					class="qodef-m-button-text">Send
+																					Message</span></button>
+																		</div>
 																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-								<section
-									class="elementor-section elementor-top-section elementor-element elementor-element-0bcdc9a elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
-									data-id="0bcdc9a" data-element_type="section">
-									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-871e26b"
-											data-id="871e26b" data-element_type="column">
-											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-57ee47b elementor-widget elementor-widget-globefarer_core_section_title"
-													data-id="57ee47b" data-element_type="widget"
-													data-widget_type="globefarer_core_section_title.default">
-													<div class="elementor-widget-container">
-														<div
-															class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef-appear-animation--no">
-															<h2 class="qodef-m-title">
-																Asia Pacific </h2>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-								<section
-									class="elementor-section elementor-top-section elementor-element elementor-element-88045a2 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
-									data-id="88045a2" data-element_type="section">
-									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4743220"
-											data-id="4743220" data-element_type="column">
-											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-6f67554 elementor-widget elementor-widget-globefarer_core_linked_titles_grid"
-													data-id="6f67554" data-element_type="widget"
-													data-widget_type="globefarer_core_linked_titles_grid.default">
-													<div class="elementor-widget-container">
-														<div class="qodef-shortcode qodef-m  qodef-linked-titles-grid qodef-grid qodef-layout--columns  qodef-gutter--medium qodef-col-num--4  qodef-responsive--predefined"
-															style="border-top: 1px solid;border-bottom: 1px solid;border-color: #01264259;padding-top: 40px">
-															<div class="qodef-grid-inner clear">
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				Australia </a>
-																		</h4>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				Indonesia </a>
-																		</h4>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				New Zealand </a>
-																		</h4>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				Singapore </a>
-																		</h4>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				China </a>
-																		</h4>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				Thailand </a>
-																		</h4>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				Japan </a>
-																		</h4>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				Korea </a>
-																		</h4>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				Malaysia </a>
-																		</h4>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				India </a>
-																		</h4>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-linked-titles-grid-item qodef-grid-item ">
-																	<div class="qodef-e-inner">
-																		<h4 class="qodef-e-title">
-																			<a class="qodef-e-link" itemprop="url"
-																				href="#" target="_self">
-																				Hong Kong </a>
-																		</h4>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-								<section
-									class="elementor-section elementor-top-section elementor-element elementor-element-fe96ddd qodef-elementor-content-grid elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-									data-id="fe96ddd" data-element_type="section">
-									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8f58e7c"
-											data-id="8f58e7c" data-element_type="column">
-											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-50ffd64 elementor-widget elementor-widget-globefarer_core_single_image"
-													data-id="50ffd64" data-element_type="widget"
-													data-widget_type="globefarer_core_single_image.default">
-													<div class="elementor-widget-container">
-														<div
-															class="qodef-shortcode qodef-m  qodef-single-image qodef-layout--default qodef-appear-animation--no  ">
-															<div class="qodef-m-image">
-																<img fetchpriority="high" fetchpriority="high"
-																	decoding="async" width="1400" height="700"
-																	src="wp-content/uploads/2021/08/air-home-map-1.gif"
-																	class="attachment-full size-full" alt="f" />
+																	<p style="display: none !important;"
+																		class="akismet-fields-container"
+																		data-prefix="_wpcf7_ak_"><label>&#916;<textarea
+																				name="_wpcf7_ak_hp_textarea" cols="45"
+																				rows="8"
+																				maxlength="100"></textarea></label><input
+																			type="hidden" id="ak_js_2"
+																			name="_wpcf7_ak_js" value="32" />
+																		<script>
+																			document.getElementById("ak_js_2").setAttribute("value", (new Date()).getTime());
+																		</script>
+																	</p>
+																	<div class="wpcf7-response-output"
+																		aria-hidden="true"></div>
+																</form>
 															</div>
 														</div>
 													</div>
@@ -947,9 +819,9 @@
 			border: none !important
 		}
 	</style>
-	<link rel='stylesheet' id='magnific-popup-css'
-		href='wp-content/plugins/globefarer-core/assets/plugins/magnific-popup/magnific-popup9704.css?ver=6.7.1'
-		type='text/css' media='all' />
+	<link rel='stylesheet' id='e-swiper-css'
+		href='wp-content/plugins/elementor/assets/css/conditionals/e-swiper.mindb68.css?ver=3.27.1' type='text/css'
+		media='all' />
 	<style id='wp-block-image-inline-css' type='text/css'>
 		.wp-block-image a {
 			display: inline-block
@@ -1679,6 +1551,7 @@
 		/* <![CDATA[ */
 		var cf7msm_posted_data = [];
 		var cf7msm_redirect_urls = [];
+		var cf7msm_redirect_urls = [];
 		/* ]]> */
 	</script>
 	<script type="text/javascript"
@@ -1756,15 +1629,6 @@
 	<script type="text/javascript"
 		src="wp-content/plugins/qi-addons-for-elementor/assets/plugins/swiper/8.4.5/swiper.min9704.js?ver=6.7.1"
 		id="swiper-js"></script>
-	<script type="text/javascript"
-		src="wp-content/plugins/qi-blocks/inc/masonry/assets/plugins/isotope.pkgd.min7c45.js?ver=3.0.6"
-		id="isotope-js"></script>
-	<script type="text/javascript"
-		src="wp-content/plugins/qi-blocks/inc/masonry/assets/plugins/packery-mode.pkgd.min7406.js?ver=2.0.1"
-		id="packery-js"></script>
-	<script type="text/javascript"
-		src="wp-content/plugins/globefarer-core/assets/plugins/magnific-popup/jquery.magnific-popup.min9704.js?ver=6.7.1"
-		id="jquery-magnific-popup-js"></script>
 	<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/webpack.runtime.mindb68.js?ver=3.27.1"
 		id="elementor-webpack-runtime-js"></script>
 	<script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend-modules.mindb68.js?ver=3.27.1"
@@ -1893,8 +1757,8 @@
 				"lightbox_description_src": "description"
 			},
 			"post": {
-				"id": 3193,
-				"title": "Global%20Network%20%E2%80%93%20New%20world%20cargo",
+				"id": 3235,
+				"title": "Get%20in%20Touch%20%E2%80%93%20New%20world%20cargo",
 				"excerpt": "",
 				"featuredImage": false
 			}
@@ -2025,6 +1889,6 @@
 		id="pro-elements-handlers-js"></script>
 </body>
 
-<!-- Mirrored from localhost/nwc/?page_id=3193 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Jan 2025 01:09:53 GMT -->
+<!-- Mirrored from localhost/nwc/?page_id=3235 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Jan 2025 01:09:45 GMT -->
 
 </html>

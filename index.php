@@ -349,20 +349,7 @@ ini_set('display_errors', 1);
       }
     }
 
-    .qodef-header-sticky .qodef-header-sticky-inner {
-      padding-left: 0px;
-      padding-right: 0px;
-    }
-
-    #qodef-page-header .qodef-header-logo-link {
-      height: 120px;
-      padding: 0 0 0 150px;
-    }
-
-    #qodef-page-mobile-header .qodef-mobile-header-logo-link {
-      padding: 0 0 0 40px;
-    }
-
+   
     .qodef-page-title {
       height: 92px;
       background-color: transparent;
@@ -1073,7 +1060,7 @@ ini_set('display_errors', 1);
                                     data-tab="quote"><i class="lni lni-file-pencil"></i>
                                     Quote</button></a>
                                 <a href="" onclick="event.preventDefault();" class="tabss"><button class="tab-button"
-                                    data-tab="ship"><i class="lni lni-ship-1"></i> Ship</button></a>
+                                    data-tab="ship"> Ship</button></a>
                                 <a href="" onclick="event.preventDefault();" class="tabss"> <button class="tab-button"
                                     data-tab="billing"><i class="lni lni-file-multiple"></i>
                                     Billing</button></a>
@@ -1452,7 +1439,7 @@ ini_set('display_errors', 1);
                                   nusqua ius ea has autem aeterno divine sum.
                                 </p>
                                 <a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual qodef-html--link"
-                                  href="./about-us/" target="_self">
+                                  href="https://globefarer.qodeinteractive.com/about-us/" target="_self">
                                   <span class="qodef-m-button-icon"><svg class="qodef-svg--plus"
                                       xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                                       width="14" height="14" viewBox="0 0 14 14">

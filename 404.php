@@ -1197,10 +1197,10 @@
             </div><!-- close #qodef-page-inner div from header.php -->
         </div><!-- close #qodef-page-outer div from header.php -->
        
-        <?php include 'components/footer.php' ?>
-		<?php include 'components/top.php'?>
-		<?php include 'components/mouse.php'?>
-   		<?php include 'components/side.php'?>
+        <?php include 'components/Footer.php' ?>
+		<?php include 'components/Top.php'?>
+		<?php include 'components/Mouse.php'?>
+   		<?php include 'components/Side.php'?>
     </div><!-- close #qodef-page-wrapper div from header.php -->
 
     <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
