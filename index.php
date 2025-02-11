@@ -1834,8 +1834,8 @@ ini_set('display_errors', 1);
     <?php include './components/Footer.php' ?>
 
     <?php include 'components/top.php' ?>
-    <?php include 'components/mouse.php' ?>
-    <?php include 'components/side.php' ?>
+    <?php include 'components/Mouse.php' ?>
+    <?php include 'components/Side.php' ?>
   </div>
   <!-- close #qodef-page-wrapper div from header.php -->
 
