@@ -1,3 +1,8 @@
+<?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+?>
+
 <!DOCTYPE html>
 <html lang="en-US">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -642,7 +647,7 @@
   <a class="skip-link screen-reader-text" href="#qodef-page-content">Skip to the content</a>
   <div id="qodef-page-wrapper" class=" containerr">
     <div id="qodef-menu-cover"></div>
-    <?php include 'components/header.php' ?>
+    <?php require 'components/header.php' ?>
     <div id="qodef-page-outer">
       <div id="qodef-page-inner" class="qodef-content-full-width">
         <main id="qodef-page-content" class="qodef-grid qodef-layout--template" role="main">
@@ -1826,11 +1831,11 @@
       <!-- close #qodef-page-inner div from header.php -->
     </div>
     <!-- close #qodef-page-outer div from header.php -->
-    <?php include 'components/footer.php' ?>
+    <?php require 'components/footer.php' ?>
 
-    <?php include 'components/top.php' ?>
-    <?php include 'components/mouse.php' ?>
-    <?php include 'components/side.php' ?>
+    <?php require 'components/top.php' ?>
+    <?php require 'components/mouse.php' ?>
+    <?php require 'components/side.php' ?>
   </div>
   <!-- close #qodef-page-wrapper div from header.php -->
 
