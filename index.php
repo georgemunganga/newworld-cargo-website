@@ -647,7 +647,7 @@ ini_set('display_errors', 1);
   <a class="skip-link screen-reader-text" href="#qodef-page-content">Skip to the content</a>
   <div id="qodef-page-wrapper" class=" containerr">
     <div id="qodef-menu-cover"></div>
-    <?php require 'components/header.php' ?>
+    <?php include 'components/Header.php' ?>
     <div id="qodef-page-outer">
       <div id="qodef-page-inner" class="qodef-content-full-width">
         <main id="qodef-page-content" class="qodef-grid qodef-layout--template" role="main">
@@ -1831,11 +1831,11 @@ ini_set('display_errors', 1);
       <!-- close #qodef-page-inner div from header.php -->
     </div>
     <!-- close #qodef-page-outer div from header.php -->
-    <?php require 'components/Footer.php' ?>
+    <?php include './components/Footer.php' ?>
 
-    <?php require 'components/top.php' ?>
-    <?php require 'components/mouse.php' ?>
-    <?php require 'components/side.php' ?>
+    <?php include 'components/top.php' ?>
+    <?php include 'components/mouse.php' ?>
+    <?php include 'components/side.php' ?>
   </div>
   <!-- close #qodef-page-wrapper div from header.php -->
 
