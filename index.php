@@ -349,7 +349,7 @@ ini_set('display_errors', 1);
       }
     }
 
-   
+
     .qodef-page-title {
       height: 92px;
       background-color: transparent;
@@ -546,6 +546,49 @@ ini_set('display_errors', 1);
       .e-con.e-parent:nth-of-type(n + 2):not(.e-lazyloaded):not(.e-no-lazyload) * {
         background-image: none !important;
       }
+    }
+
+    @media screen and (min-width: 1068px) {
+
+      .elementor-column.elementor-col-33.elementor-top-column.elementor-element {
+        --display: flex;
+        --align-items: center;
+        --container-widget-width: calc((1 - var(--container-widget-flex-grow))* 100%);
+        border-style: solid;
+        --border-style: solid;
+        border-width: 0px 1px 0px 0px;
+        --border-top-width: 0px;
+        --border-right-width: 1px;
+        --border-bottom-width: 0px;
+        --border-left-width: 0px;
+        border-color: #D1D1D1;
+        --border-color: #D1D1D1;
+        --padding-top: 40px;
+        --padding-bottom: 40px;
+        --padding-left: 120px;
+        --padding-right: 120px;
+        margin-left: 30px;
+        margin: 1rem;
+
+      }
+
+    }
+
+    @media screen and (max-width: 668px) {
+
+      .elementor-column.elementor-col-33.elementor-top-column.elementor-element {
+        border-style: solid;
+        --border-style: solid;
+        border-width: 0px 0px 1px 0px;
+        border-color: #D1D1D1;
+        margin-left: 30px;
+        margin-right: 30px;
+        margin: 1rem;
+        padding-bottom: 4rem;
+        
+
+      }
+
     }
   </style>
   <meta name="generator"
@@ -751,7 +794,7 @@ ini_set('display_errors', 1);
                                           ">
                                         <p>Your packages will not be damaged
                                           with our expert courier services.</p>
-                                          <div style="display: flex; gap:10px;" class="row">
+                                        <div style="display: flex; gap:10px;" class="row">
                                           <button class="" type="submit">
                                             <span class="qodef-m-button-icon"><svg class="qodef-svg--plus"
                                                 xmlns="http://www.w3.org/2000/svg"
@@ -806,7 +849,7 @@ ini_set('display_errors', 1);
                                         <p>
                                           Guarantee no complications and
                                           full refunds in case of damages.
-                                          <div style="display: flex; gap:10px;" class="row">
+                                        <div style="display: flex; gap:10px;" class="row">
                                           <button class="" type="submit">
                                             <span class="qodef-m-button-icon"><svg class="qodef-svg--plus"
                                                 xmlns="http://www.w3.org/2000/svg"
@@ -861,7 +904,7 @@ ini_set('display_errors', 1);
                                           ">
                                         <p>Cost efficient & always on time,
                                           that’s our transport company moto!</p>
-                                          <div style="display: flex; gap:10px;" class="row">
+                                        <div style="display: flex; gap:10px;" class="row">
                                           <button class="" type="submit">
                                             <span class="qodef-m-button-icon"><svg class="qodef-svg--plus"
                                                 xmlns="http://www.w3.org/2000/svg"
@@ -1278,7 +1321,10 @@ ini_set('display_errors', 1);
                                   Delivering Comfort, One Shipment at a Time.
                                 </h2>
                                 <p class="qodef-m-text">
-                                At New World Investments Limited, we’re dedicated to simplifying your import journey. We recognize the challenges that importers face when bringing goods from China to Zambia and we are on a mission to provide cost-effective courier services tailored specifically for the Zambia-China market.
+                                  At New World Investments Limited, we’re dedicated to simplifying your import journey.
+                                  We recognize the challenges that importers face when bringing goods from China to
+                                  Zambia and we are on a mission to provide cost-effective courier services tailored
+                                  specifically for the Zambia-China market.
                                 </p>
                                 <a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual qodef-html--link"
                                   href="./our-services/" target="_self">
@@ -1299,9 +1345,9 @@ ini_set('display_errors', 1);
                                     padding-right: 0px;
                                    
                                   ">
-                                <img style="border-radius: 20px;" loading="lazy" decoding="async" width="800" height="507"
-                                  src="wp-content/uploads/2021/08/main-home-img-1-1.jpg"
-                                  class="attachment-full size-full" alt="d" />
+                                <img style="border-radius: 20px;" loading="lazy" decoding="async" width="800"
+                                  height="507" src="wp-content/uploads/2021/10/3.webp" class="attachment-full size-full"
+                                  alt="d" />
                               </div>
                             </div>
                           </div>
@@ -1309,36 +1355,37 @@ ini_set('display_errors', 1);
                       </div>
                     </div>
                   </div>
-                            </section>
-                <section
-                  class="elementor-section elementor-top-section elementor-element elementor-element-e737fae elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
-                  data-id="e737fae" data-element_type="section" data-settings='{"background_background":"classic"}'>
+                </section>
+                <section style=" background-color: #EFEFEF;	padding: 4rem 0 4rem 0;"
+                  class="elementor-section elementor-top-section elementor-element elementor-element-b8fd44b elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
+                  data-id="b8fd44b" data-element_type="section"
+                  data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                   <div class="elementor-container elementor-column-gap-no">
-                  <div
-                      class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7dfacf7"
-                      data-id="7dfacf7" data-element_type="column">
+
+                    <div
+                      class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-209e974"
+                      data-id="209e974" data-element_type="column">
                       <div class="elementor-widget-wrap elementor-element-populated">
                         <div
-                          class="elementor-element elementor-element-69f5656 elementor-widget elementor-widget-globefarer_core_icon_with_text"
-                          data-id="69f5656" data-element_type="widget"
+                          class="elementor-element elementor-element-405129c elementor-widget elementor-widget-globefarer_core_icon_with_text"
+                          data-id="405129c" data-element_type="widget"
                           data-widget_type="globefarer_core_icon_with_text.default">
                           <div class="elementor-widget-container">
                             <div
-                              class="qodef-shortcode qodef-m qodef-icon-with-text qodef-layout--top qodef--custom-icon qodef-alignment--left">
+                              class="qodef-shortcode qodef-m  qodef-icon-with-text qodef-layout--top qodef--custom-icon  qodef-alignment--left">
                               <div class="qodef-m-icon-wrapper">
-                                <img loading="lazy" loading="lazy" decoding="async" width="45" height="34"
-                                  src="wp-content/uploads/2021/08/landing-icon-2-1.png"
-                                  class="attachment-full size-full" alt="d" />
+                                <i style="font-size: 5rem;color: #ffcc05;"
+                                  class="attachment-full size-full lni lni-aeroplane-1"></i>
                               </div>
                               <div class="qodef-m-content">
                                 <h4 class="qodef-m-title">
-                                  <span class="qodef-m-title-text">Air Freight</span>
+                                  <span class="qodef-m-title-text">Air Freight
+                                    <br>Transportation</span>
                                 </h4>
-                                <p class="qodef-m-text" style="margin-top: 18px">
-                                  Vix ut ignota deserunt partien ad, pros tale
-                                  falli periculis ad, idque deseruisse
-                                  constituam.
-                                </p>
+                                <p class="qodef-m-text" style="margin-top: 18px">Air
+                                  freight offers you a wide range of benefits,
+                                  including speed, reliability, tracking capabilities,
+                                  and suitability for various types of cargo.</p>
                               </div>
                             </div>
                           </div>
@@ -1346,69 +1393,63 @@ ini_set('display_errors', 1);
                       </div>
                     </div>
                     <div
-                      class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-678738e"
-                      data-id="678738e" data-element_type="column">
+                      class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-53474b0"
+                      data-id="53474b0" data-element_type="column">
                       <div class="elementor-widget-wrap elementor-element-populated">
                         <div
-                          class="elementor-element elementor-element-a9cd0d7 elementor-widget elementor-widget-globefarer_core_icon_with_text"
-                          data-id="a9cd0d7" data-element_type="widget"
+                          class="elementor-element elementor-element-a139469 elementor-widget elementor-widget-globefarer_core_icon_with_text"
+                          data-id="a139469" data-element_type="widget"
                           data-widget_type="globefarer_core_icon_with_text.default">
                           <div class="elementor-widget-container">
                             <div
-                              class="qodef-shortcode qodef-m qodef-icon-with-text qodef-layout--top qodef--custom-icon qodef-alignment--left">
+                              class="qodef-shortcode qodef-m  qodef-icon-with-text qodef-layout--top qodef--custom-icon  qodef-alignment--left">
                               <div class="qodef-m-icon-wrapper">
-                                <img loading="lazy" loading="lazy" decoding="async" width="45" height="34"
-                                  src="wp-content/uploads/2021/08/landing-icon-3-1.png"
-                                  class="attachment-full size-full" alt="d" />
+                                <i style="font-size: 5rem;color: #ffcc05;" class="lni lni-ship-1"></i>
                               </div>
                               <div class="qodef-m-content">
                                 <h4 class="qodef-m-title">
-                                  <span class="qodef-m-title-text">Sea Freight</span>
+                                  <span class="qodef-m-title-text">Sea Freight
+                                    Transportation</span>
                                 </h4>
-                                <p class="qodef-m-text" style="margin-top: 18px">
-                                  Vix ut ignota deserunt partien ad, pros tale
-                                  falli periculis ad, idque deseruisse
-                                  constituam.
-                                </p>
+                                <p class="qodef-m-text" style="margin-top: 18px">Sea
+                                  Freight is a cost-effective and efficient method of
+                                  transporting goods internationally.</p>
                               </div>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
-                    
                     <div
-                      class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-68ec894"
-                      data-id="68ec894" data-element_type="column">
+                      class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-77c24f0"
+                      data-id="77c24f0" data-element_type="column">
                       <div class="elementor-widget-wrap elementor-element-populated">
                         <div
-                          class="elementor-element elementor-element-fcc6e12 elementor-widget elementor-widget-globefarer_core_icon_with_text"
-                          data-id="fcc6e12" data-element_type="widget"
+                          class="elementor-element elementor-element-2e4293f elementor-widget elementor-widget-globefarer_core_icon_with_text"
+                          data-id="2e4293f" data-element_type="widget"
                           data-widget_type="globefarer_core_icon_with_text.default">
                           <div class="elementor-widget-container">
                             <div
-                              class="qodef-shortcode qodef-m qodef-icon-with-text qodef-layout--top qodef--custom-icon qodef-alignment--left">
+                              class="qodef-shortcode qodef-m  qodef-icon-with-text qodef-layout--top qodef--custom-icon  qodef-alignment--left">
                               <div class="qodef-m-icon-wrapper">
-                                <img loading="lazy" loading="lazy" decoding="async" width="45" height="34"
-                                  src="wp-content/uploads/2021/08/landing-icon-1-1.png"
-                                  class="attachment-full size-full" alt="d" />
+                                <i style="font-size: 5rem;color: #ffcc05;" class="lni  lni-truck-delivery-1"></i>
                               </div>
                               <div class="qodef-m-content">
                                 <h4 class="qodef-m-title">
-                                  <span class="qodef-m-title-text">Procurement</span>
+                                  <span class="qodef-m-title-text">Procurement and
+                                    Warehousing</span>
                                 </h4>
-                                <p class="qodef-m-text" style="margin-top: 18px">
-                                  Vix ut ignota deserunt partien ad, pros tale
-                                  falli periculis ad, idque deseruisse
-                                  constituam.
-                                </p>
+                                <p class="qodef-m-text" style="margin-top: 18px">We
+                                  understand that procuring goods efficiently and
+                                  securely is a top priority for both individuals and
+                                  large corporations.</p>
                               </div>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
-                    
+
                   </div>
                 </section>
                 <section
@@ -1467,349 +1508,275 @@ ini_set('display_errors', 1);
                   </div>
                 </section>
                 <section
-									class="elementor-section elementor-top-section elementor-element elementor-element-593146d elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no"
-									data-id="593146d" data-element_type="section">
-									<div class="elementor-container elementor-column-gap-default">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a76a239"
-											data-id="a76a239" data-element_type="column">
-											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-069d01f elementor-widget elementor-widget-globefarer_core_blog_list"
-													data-id="069d01f" data-element_type="widget"
-													data-widget_type="globefarer_core_blog_list.default">
-													<div class="elementor-widget-container">
-														<div class="qodef-shortcode qodef-m  qodef-blog qodef-item-layout--info-on-image qodef-hover-animation--no qodef-grid qodef-layout--columns  qodef-gutter--no qodef-col-num--4 qodef-item-layout--info-on-image qodef--no-bottom-space qodef-pagination--off qodef-responsive--custom qodef-col-num--1440--4 qodef-col-num--1366--4 qodef-col-num--1024--2 qodef-col-num--768--2 qodef-col-num--680--1 qodef-col-num--480--1"
-															data-options="{&quot;plugin&quot;:&quot;globefarer_core&quot;,&quot;module&quot;:&quot;blog\/shortcodes&quot;,&quot;shortcode&quot;:&quot;blog-list&quot;,&quot;post_type&quot;:&quot;post&quot;,&quot;next_page&quot;:&quot;2&quot;,&quot;max_pages_num&quot;:1,&quot;behavior&quot;:&quot;columns&quot;,&quot;images_proportion&quot;:&quot;full&quot;,&quot;columns&quot;:&quot;4&quot;,&quot;columns_responsive&quot;:&quot;custom&quot;,&quot;columns_1440&quot;:&quot;4&quot;,&quot;columns_1366&quot;:&quot;4&quot;,&quot;columns_1024&quot;:&quot;2&quot;,&quot;columns_768&quot;:&quot;2&quot;,&quot;columns_680&quot;:&quot;1&quot;,&quot;columns_480&quot;:&quot;1&quot;,&quot;space&quot;:&quot;no&quot;,&quot;posts_per_page&quot;:&quot;4&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;additional_params&quot;:&quot;tax&quot;,&quot;tax&quot;:&quot;category&quot;,&quot;tax_slug&quot;:&quot;Infrastructure&quot;,&quot;layout&quot;:&quot;info-on-image&quot;,&quot;title_tag&quot;:&quot;h3&quot;,&quot;excerpt_length&quot;:&quot;114&quot;,&quot;button_text&quot;:&quot;Read more about this case&quot;,&quot;line_break_positions&quot;:&quot;2&quot;,&quot;hover_animation&quot;:&quot;no&quot;,&quot;pagination_type&quot;:&quot;no-pagination&quot;,&quot;object_class_name&quot;:&quot;GlobeFarerCore_Blog_List_Shortcode&quot;,&quot;taxonomy_filter&quot;:&quot;category&quot;,&quot;additional_query_args&quot;:{&quot;tax_query&quot;:[{&quot;taxonomy&quot;:&quot;category&quot;,&quot;field&quot;:&quot;slug&quot;,&quot;terms&quot;:&quot;Infrastructure&quot;}]},&quot;space_value&quot;:0}">
-															<div class="qodef-grid-inner clear">
-																<article
-																	class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3280 post type-post status-publish format-video has-post-thumbnail hentry category-infrastructure tag-truck tag-warehouse post_format-post-format-video">
-																	<div class="qodef-e-inner">
-																		<div class="qodef-e-media">
-																			<div class="qodef-e-media-video">
-																				<video autoplay="autoplay" loop="loop"
-																					muted="muted" playsinline>
-																					<source
-																						src="https://globefarer.qodeinteractive.com/wp-content/uploads/2021/09/blog-flag-video.mp4"
-																						type="video/mp4">
-																				</video>
-																				<a class="qodef-e-media-video-link"
-																					href="indexa0e4.html?p=3280"></a>
-																			</div>
-																		</div>
-																		<div class="qodef-e-content qodef--initial">
-																			<div class="qodef-e-top-holder">
-																				<div class="qodef-e-info">
-																					<a href="indexb0b7.html?cat=6"
-																						rel="tag">Infrastructure</a>
-																					<div
-																						class="qodef-info-separator-end">
-																					</div>
-																				</div>
-																			</div>
-																			<div class="qodef-e-text">
-																				<h3 itemprop="name"
-																					class="qodef-e-title entry-title">
-																					<a itemprop="url"
-																						class="qodef-e-title-link"
-																						href="indexa0e4.html?p=3280">
-																						Simplified Building </a>
-																				</h3>
-																			</div>
-																		</div>
-																		<div class="qodef-e-content qodef--hover">
-																			<div class="qodef-e-text">
-																				<h3 itemprop="name"
-																					class="qodef-e-title entry-title">
-																					<a itemprop="url"
-																						class="qodef-e-title-link"
-																						href="indexa0e4.html?p=3280">
-																						Simplified Building </a>
-																				</h3>
-																				<p itemprop="description"
-																					class="qodef-e-excerpt">Lorem ipsum
-																					dolor sit amet, consectetur
-																					adipiscing elit. In augue ligula,
-																					feugiat ut nulla consequat. Ut est
-																					lacus</p>
-																			</div>
-																			<div class="qodef-e-bottom-holder">
-																				<div class="qodef-e-read-more">
-																					<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
-																						href="indexa0e4.html?p=3280"
-																						target="_self"> <span
-																							class="qodef-m-button-icon"><svg
-																								class="qodef-svg--plus"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								width="14" height="14"
-																								viewBox="0 0 14 14">
-																								<path
-																									class="qodef-m-horizontal"
-																									d="M0,0H14V2H0Z"
-																									transform="translate(0 6)" />
-																								<path
-																									class="qodef-m-vertical"
-																									d="M0,0H2V14H0Z"
-																									transform="translate(6)" />
-																							</svg></span> <span
-																							class="qodef-m-button-text">Read
-																							more<br /> about this
-																							case</span> </a>
-																				</div>
-																			</div>
-																			<a itemprop="url" class="qodef-e-post-link"
-																				href="indexa0e4.html?p=3280"></a>
-																		</div>
-																	</div>
-																</article>
-																<article
-																	class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3255 post type-post status-publish format-standard has-post-thumbnail hentry category-infrastructure tag-shipping tag-supplychain">
-																	<div class="qodef-e-inner">
-																		<div class="qodef-e-media">
-																			<div class="qodef-e-media-image qodef--background"
-																				style="background-image: url( wp-content/uploads/2021/08/water-home-blog-img1-1.jpg)">
-																				<img loading="lazy" loading="lazy"
-																					decoding="async" width="1400"
-																					height="1954"
-																					src="wp-content/uploads/2021/08/water-home-blog-img1-1.jpg"
-																					class="attachment-full size-full wp-post-image"
-																					alt="f" />
-																			</div>
-																		</div>
-																		<div class="qodef-e-content qodef--initial">
-																			<div class="qodef-e-top-holder">
-																				<div class="qodef-e-info">
-																					<a href="indexb0b7.html?cat=6"
-																						rel="tag">Infrastructure</a>
-																					<div
-																						class="qodef-info-separator-end">
-																					</div>
-																				</div>
-																			</div>
-																			<div class="qodef-e-text">
-																				<h3 itemprop="name"
-																					class="qodef-e-title entry-title">
-																					<a itemprop="url"
-																						class="qodef-e-title-link"
-																						href="indexb808.html?p=3255">
-																						Expert Tips </a>
-																				</h3>
-																			</div>
-																		</div>
-																		<div class="qodef-e-content qodef--hover">
-																			<div class="qodef-e-text">
-																				<h3 itemprop="name"
-																					class="qodef-e-title entry-title">
-																					<a itemprop="url"
-																						class="qodef-e-title-link"
-																						href="indexb808.html?p=3255">
-																						Expert Tips </a>
-																				</h3>
-																				<p itemprop="description"
-																					class="qodef-e-excerpt">Lorem ipsum
-																					dolor sit amet, consectetur
-																					adipiscing elit. In augue ligula,
-																					feugiat ut nulla consequat. Ut est
-																					lacus</p>
-																			</div>
-																			<div class="qodef-e-bottom-holder">
-																				<div class="qodef-e-read-more">
-																					<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
-																						href="indexb808.html?p=3255"
-																						target="_self"> <span
-																							class="qodef-m-button-icon"><svg
-																								class="qodef-svg--plus"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								width="14" height="14"
-																								viewBox="0 0 14 14">
-																								<path
-																									class="qodef-m-horizontal"
-																									d="M0,0H14V2H0Z"
-																									transform="translate(0 6)" />
-																								<path
-																									class="qodef-m-vertical"
-																									d="M0,0H2V14H0Z"
-																									transform="translate(6)" />
-																							</svg></span> <span
-																							class="qodef-m-button-text">Read
-																							more<br /> about this
-																							case</span> </a>
-																				</div>
-																			</div>
-																			<a itemprop="url" class="qodef-e-post-link"
-																				href="indexb808.html?p=3255"></a>
-																		</div>
-																	</div>
-																</article>
-																<article
-																	class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3264 post type-post status-publish format-standard has-post-thumbnail hentry category-infrastructure tag-transport tag-travel">
-																	<div class="qodef-e-inner">
-																		<div class="qodef-e-media">
-																			<div class="qodef-e-media-image qodef--background"
-																				style="background-image: url( wp-content/uploads/2021/08/water-home-blog-img2-1.jpg)">
-																				<img loading="lazy" loading="lazy"
-																					decoding="async" width="1400"
-																					height="1954"
-																					src="wp-content/uploads/2021/08/water-home-blog-img2-1.jpg"
-																					class="attachment-full size-full wp-post-image"
-																					alt="f" />
-																			</div>
-																		</div>
-																		<div class="qodef-e-content qodef--initial">
-																			<div class="qodef-e-top-holder">
-																				<div class="qodef-e-info">
-																					<a href="indexb0b7.html?cat=6"
-																						rel="tag">Infrastructure</a>
-																					<div
-																						class="qodef-info-separator-end">
-																					</div>
-																				</div>
-																			</div>
-																			<div class="qodef-e-text">
-																				<h3 itemprop="name"
-																					class="qodef-e-title entry-title">
-																					<a itemprop="url"
-																						class="qodef-e-title-link"
-																						href="index50e4.html?p=3264">
-																						Different Roads </a>
-																				</h3>
-																			</div>
-																		</div>
-																		<div class="qodef-e-content qodef--hover">
-																			<div class="qodef-e-text">
-																				<h3 itemprop="name"
-																					class="qodef-e-title entry-title">
-																					<a itemprop="url"
-																						class="qodef-e-title-link"
-																						href="index50e4.html?p=3264">
-																						Different Roads </a>
-																				</h3>
-																				<p itemprop="description"
-																					class="qodef-e-excerpt">Lorem ipsum
-																					dolor sit amet, consectetur
-																					adipiscing elit. In augue ligula,
-																					feugiat ut nulla consequat. Ut est
-																					lacus</p>
-																			</div>
-																			<div class="qodef-e-bottom-holder">
-																				<div class="qodef-e-read-more">
-																					<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
-																						href="index50e4.html?p=3264"
-																						target="_self"> <span
-																							class="qodef-m-button-icon"><svg
-																								class="qodef-svg--plus"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								width="14" height="14"
-																								viewBox="0 0 14 14">
-																								<path
-																									class="qodef-m-horizontal"
-																									d="M0,0H14V2H0Z"
-																									transform="translate(0 6)" />
-																								<path
-																									class="qodef-m-vertical"
-																									d="M0,0H2V14H0Z"
-																									transform="translate(6)" />
-																							</svg></span> <span
-																							class="qodef-m-button-text">Read
-																							more<br /> about this
-																							case</span> </a>
-																				</div>
-																			</div>
-																			<a itemprop="url" class="qodef-e-post-link"
-																				href="index50e4.html?p=3264"></a>
-																		</div>
-																	</div>
-																</article>
-																<article
-																	class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3270 post type-post status-publish format-standard has-post-thumbnail hentry category-infrastructure tag-business tag-transit">
-																	<div class="qodef-e-inner">
-																		<div class="qodef-e-media">
-																			<div class="qodef-e-media-image qodef--background"
-																				style="background-image: url( wp-content/uploads/2021/08/water-home-blog-img3-1.jpg)">
-																				<img loading="lazy" loading="lazy"
-																					decoding="async" width="1400"
-																					height="1954"
-																					src="wp-content/uploads/2021/08/water-home-blog-img3-1.jpg"
-																					class="attachment-full size-full wp-post-image"
-																					alt="d" />
-																			</div>
-																		</div>
-																		<div class="qodef-e-content qodef--initial">
-																			<div class="qodef-e-top-holder">
-																				<div class="qodef-e-info">
-																					<a href="indexb0b7.html?cat=6"
-																						rel="tag">Infrastructure</a>
-																					<div
-																						class="qodef-info-separator-end">
-																					</div>
-																				</div>
-																			</div>
-																			<div class="qodef-e-text">
-																				<h3 itemprop="name"
-																					class="qodef-e-title entry-title">
-																					<a itemprop="url"
-																						class="qodef-e-title-link"
-																						href="index6734.html?p=3270">
-																						Lasting Impressions </a>
-																				</h3>
-																			</div>
-																		</div>
-																		<div class="qodef-e-content qodef--hover">
-																			<div class="qodef-e-text">
-																				<h3 itemprop="name"
-																					class="qodef-e-title entry-title">
-																					<a itemprop="url"
-																						class="qodef-e-title-link"
-																						href="index6734.html?p=3270">
-																						Lasting Impressions </a>
-																				</h3>
-																				<p itemprop="description"
-																					class="qodef-e-excerpt">Lorem ipsum
-																					dolor sit amet, consectetur
-																					adipiscing elit. In augue ligula,
-																					feugiat ut nulla consequat. Ut est
-																					lacus</p>
-																			</div>
-																			<div class="qodef-e-bottom-holder">
-																				<div class="qodef-e-read-more">
-																					<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
-																						href="index6734.html?p=3270"
-																						target="_self"> <span
-																							class="qodef-m-button-icon"><svg
-																								class="qodef-svg--plus"
-																								xmlns="http://www.w3.org/2000/svg"
-																								xmlns:xlink="http://www.w3.org/1999/xlink"
-																								width="14" height="14"
-																								viewBox="0 0 14 14">
-																								<path
-																									class="qodef-m-horizontal"
-																									d="M0,0H14V2H0Z"
-																									transform="translate(0 6)" />
-																								<path
-																									class="qodef-m-vertical"
-																									d="M0,0H2V14H0Z"
-																									transform="translate(6)" />
-																							</svg></span> <span
-																							class="qodef-m-button-text">Read
-																							more<br /> about this
-																							case</span> </a>
-																				</div>
-																			</div>
-																			<a itemprop="url" class="qodef-e-post-link"
-																				href="index6734.html?p=3270"></a>
-																		</div>
-																	</div>
-																</article>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-              
+                  class="elementor-section elementor-top-section elementor-element elementor-element-593146d elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no"
+                  data-id="593146d" data-element_type="section">
+                  <div class="elementor-container elementor-column-gap-default">
+                    <div
+                      class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a76a239"
+                      data-id="a76a239" data-element_type="column">
+                      <div class="elementor-widget-wrap elementor-element-populated">
+                        <div
+                          class="elementor-element elementor-element-069d01f elementor-widget elementor-widget-globefarer_core_blog_list"
+                          data-id="069d01f" data-element_type="widget"
+                          data-widget_type="globefarer_core_blog_list.default">
+                          <div class="elementor-widget-container">
+                            <div
+                              class="qodef-shortcode qodef-m  qodef-blog qodef-item-layout--info-on-image qodef-hover-animation--no qodef-grid qodef-layout--columns  qodef-gutter--no qodef-col-num--4 qodef-item-layout--info-on-image qodef--no-bottom-space qodef-pagination--off qodef-responsive--custom qodef-col-num--1440--4 qodef-col-num--1366--4 qodef-col-num--1024--2 qodef-col-num--768--2 qodef-col-num--680--1 qodef-col-num--480--1"
+                              data-options="{&quot;plugin&quot;:&quot;globefarer_core&quot;,&quot;module&quot;:&quot;blog\/shortcodes&quot;,&quot;shortcode&quot;:&quot;blog-list&quot;,&quot;post_type&quot;:&quot;post&quot;,&quot;next_page&quot;:&quot;2&quot;,&quot;max_pages_num&quot;:1,&quot;behavior&quot;:&quot;columns&quot;,&quot;images_proportion&quot;:&quot;full&quot;,&quot;columns&quot;:&quot;4&quot;,&quot;columns_responsive&quot;:&quot;custom&quot;,&quot;columns_1440&quot;:&quot;4&quot;,&quot;columns_1366&quot;:&quot;4&quot;,&quot;columns_1024&quot;:&quot;2&quot;,&quot;columns_768&quot;:&quot;2&quot;,&quot;columns_680&quot;:&quot;1&quot;,&quot;columns_480&quot;:&quot;1&quot;,&quot;space&quot;:&quot;no&quot;,&quot;posts_per_page&quot;:&quot;4&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;additional_params&quot;:&quot;tax&quot;,&quot;tax&quot;:&quot;category&quot;,&quot;tax_slug&quot;:&quot;Infrastructure&quot;,&quot;layout&quot;:&quot;info-on-image&quot;,&quot;title_tag&quot;:&quot;h3&quot;,&quot;excerpt_length&quot;:&quot;114&quot;,&quot;button_text&quot;:&quot;Read more about this case&quot;,&quot;line_break_positions&quot;:&quot;2&quot;,&quot;hover_animation&quot;:&quot;no&quot;,&quot;pagination_type&quot;:&quot;no-pagination&quot;,&quot;object_class_name&quot;:&quot;GlobeFarerCore_Blog_List_Shortcode&quot;,&quot;taxonomy_filter&quot;:&quot;category&quot;,&quot;additional_query_args&quot;:{&quot;tax_query&quot;:[{&quot;taxonomy&quot;:&quot;category&quot;,&quot;field&quot;:&quot;slug&quot;,&quot;terms&quot;:&quot;Infrastructure&quot;}]},&quot;space_value&quot;:0}">
+                              <div class="qodef-grid-inner clear">
+                                <article
+                                  class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3280 post type-post status-publish format-video has-post-thumbnail hentry category-infrastructure tag-truck tag-warehouse post_format-post-format-video">
+                                  <div class="qodef-e-inner">
+                                    <div class="qodef-e-media">
+                                      <div class="qodef-e-media-video">
+                                        <!-- <video autoplay="autoplay" loop="loop" muted="muted" playsinline>
+                                          <source
+                                            src="/wp-content/uploads/2021/09/blog-flag-video.mp4"
+                                            type="video/mp4">
+                                        </video> -->
+                                        <div class="qodef-e-media-image qodef--background"
+                                        style="background-image: url( wp-content/uploads/2021/08/water-home-blog-img1-1.jpg)">
+                                        <img loading="lazy" loading="lazy" decoding="async" width="1400" height="1954"
+                                          src="wp-content/uploads/2021/08/water-home-blog-img1-1.jpg"
+                                          class="attachment-full size-full wp-post-image" alt="f" />
+                                      </div>
+                                        <a class="qodef-e-media-video-link" href="indexa0e4.html?p=3280"></a>
+                                      </div>
+                                    </div>
+                                    <div class="qodef-e-content qodef--initial">
+                                      <div class="qodef-e-top-holder">
+                                        <div class="qodef-e-info">
+                                          <a href="indexb0b7.html?cat=6" rel="tag">Infrastructure</a>
+                                          <div class="qodef-info-separator-end">
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="qodef-e-text">
+                                        <h3 itemprop="name" class="qodef-e-title entry-title">
+                                          <a itemprop="url" class="qodef-e-title-link" href="indexa0e4.html?p=3280">
+                                            Simplified Building </a>
+                                        </h3>
+                                      </div>
+                                    </div>
+                                    <div class="qodef-e-content qodef--hover">
+                                      <div class="qodef-e-text">
+                                        <h3 itemprop="name" class="qodef-e-title entry-title">
+                                          <a itemprop="url" class="qodef-e-title-link" href="indexa0e4.html?p=3280">
+                                            Simplified Building </a>
+                                        </h3>
+                                        <p itemprop="description" class="qodef-e-excerpt">Lorem ipsum
+                                          dolor sit amet, consectetur
+                                          adipiscing elit. In augue ligula,
+                                          feugiat ut nulla consequat. Ut est
+                                          lacus</p>
+                                      </div>
+                                      <div class="qodef-e-bottom-holder">
+                                        <div class="qodef-e-read-more">
+                                          <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
+                                            href="indexa0e4.html?p=3280" target="_self"> <span
+                                              class="qodef-m-button-icon"><svg class="qodef-svg--plus"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14"
+                                                viewBox="0 0 14 14">
+                                                <path class="qodef-m-horizontal" d="M0,0H14V2H0Z"
+                                                  transform="translate(0 6)" />
+                                                <path class="qodef-m-vertical" d="M0,0H2V14H0Z"
+                                                  transform="translate(6)" />
+                                              </svg></span> <span class="qodef-m-button-text">Read
+                                              more<br /> about this
+                                              case</span> </a>
+                                        </div>
+                                      </div>
+                                      <a itemprop="url" class="qodef-e-post-link" href="indexa0e4.html?p=3280"></a>
+                                    </div>
+                                  </div>
+                                </article>
+                                <article
+                                  class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3255 post type-post status-publish format-standard has-post-thumbnail hentry category-infrastructure tag-shipping tag-supplychain">
+                                  <div class="qodef-e-inner">
+                                    <div class="qodef-e-media">
+                                      <div class="qodef-e-media-image qodef--background"
+                                        style="background-image: url( wp-content/uploads/2021/08/water-home-blog-img1-1.jpg)">
+                                        <img loading="lazy" loading="lazy" decoding="async" width="1400" height="1954"
+                                          src="wp-content/uploads/2021/08/water-home-blog-img1-1.jpg"
+                                          class="attachment-full size-full wp-post-image" alt="f" />
+                                      </div>
+                                    </div>
+                                    <div class="qodef-e-content qodef--initial">
+                                      <div class="qodef-e-top-holder">
+                                        <div class="qodef-e-info">
+                                          <a href="indexb0b7.html?cat=6" rel="tag">Infrastructure</a>
+                                          <div class="qodef-info-separator-end">
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="qodef-e-text">
+                                        <h3 itemprop="name" class="qodef-e-title entry-title">
+                                          <a itemprop="url" class="qodef-e-title-link" href="indexb808.html?p=3255">
+                                            Expert Tips </a>
+                                        </h3>
+                                      </div>
+                                    </div>
+                                    <div class="qodef-e-content qodef--hover">
+                                      <div class="qodef-e-text">
+                                        <h3 itemprop="name" class="qodef-e-title entry-title">
+                                          <a itemprop="url" class="qodef-e-title-link" href="indexb808.html?p=3255">
+                                            Expert Tips </a>
+                                        </h3>
+                                        <p itemprop="description" class="qodef-e-excerpt">Lorem ipsum
+                                          dolor sit amet, consectetur
+                                          adipiscing elit. In augue ligula,
+                                          feugiat ut nulla consequat. Ut est
+                                          lacus</p>
+                                      </div>
+                                      <div class="qodef-e-bottom-holder">
+                                        <div class="qodef-e-read-more">
+                                          <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
+                                            href="indexb808.html?p=3255" target="_self"> <span
+                                              class="qodef-m-button-icon"><svg class="qodef-svg--plus"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14"
+                                                viewBox="0 0 14 14">
+                                                <path class="qodef-m-horizontal" d="M0,0H14V2H0Z"
+                                                  transform="translate(0 6)" />
+                                                <path class="qodef-m-vertical" d="M0,0H2V14H0Z"
+                                                  transform="translate(6)" />
+                                              </svg></span> <span class="qodef-m-button-text">Read
+                                              more<br /> about this
+                                              case</span> </a>
+                                        </div>
+                                      </div>
+                                      <a itemprop="url" class="qodef-e-post-link" href="indexb808.html?p=3255"></a>
+                                    </div>
+                                  </div>
+                                </article>
+                                <article
+                                  class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3264 post type-post status-publish format-standard has-post-thumbnail hentry category-infrastructure tag-transport tag-travel">
+                                  <div class="qodef-e-inner">
+                                    <div class="qodef-e-media">
+                                      <div class="qodef-e-media-image qodef--background"
+                                        style="background-image: url( wp-content/uploads/2021/08/water-home-blog-img2-1.jpg)">
+                                        <img loading="lazy" loading="lazy" decoding="async" width="1400" height="1954"
+                                          src="wp-content/uploads/2021/08/water-home-blog-img2-1.jpg"
+                                          class="attachment-full size-full wp-post-image" alt="f" />
+                                      </div>
+                                    </div>
+                                    <div class="qodef-e-content qodef--initial">
+                                      <div class="qodef-e-top-holder">
+                                        <div class="qodef-e-info">
+                                          <a href="indexb0b7.html?cat=6" rel="tag">Infrastructure</a>
+                                          <div class="qodef-info-separator-end">
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="qodef-e-text">
+                                        <h3 itemprop="name" class="qodef-e-title entry-title">
+                                          <a itemprop="url" class="qodef-e-title-link" href="index50e4.html?p=3264">
+                                            Different Roads </a>
+                                        </h3>
+                                      </div>
+                                    </div>
+                                    <div class="qodef-e-content qodef--hover">
+                                      <div class="qodef-e-text">
+                                        <h3 itemprop="name" class="qodef-e-title entry-title">
+                                          <a itemprop="url" class="qodef-e-title-link" href="index50e4.html?p=3264">
+                                            Different Roads </a>
+                                        </h3>
+                                        <p itemprop="description" class="qodef-e-excerpt">Lorem ipsum
+                                          dolor sit amet, consectetur
+                                          adipiscing elit. In augue ligula,
+                                          feugiat ut nulla consequat. Ut est
+                                          lacus</p>
+                                      </div>
+                                      <div class="qodef-e-bottom-holder">
+                                        <div class="qodef-e-read-more">
+                                          <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
+                                            href="index50e4.html?p=3264" target="_self"> <span
+                                              class="qodef-m-button-icon"><svg class="qodef-svg--plus"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14"
+                                                viewBox="0 0 14 14">
+                                                <path class="qodef-m-horizontal" d="M0,0H14V2H0Z"
+                                                  transform="translate(0 6)" />
+                                                <path class="qodef-m-vertical" d="M0,0H2V14H0Z"
+                                                  transform="translate(6)" />
+                                              </svg></span> <span class="qodef-m-button-text">Read
+                                              more<br /> about this
+                                              case</span> </a>
+                                        </div>
+                                      </div>
+                                      <a itemprop="url" class="qodef-e-post-link" href="index50e4.html?p=3264"></a>
+                                    </div>
+                                  </div>
+                                </article>
+                                <article
+                                  class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3270 post type-post status-publish format-standard has-post-thumbnail hentry category-infrastructure tag-business tag-transit">
+                                  <div class="qodef-e-inner">
+                                    <div class="qodef-e-media">
+                                      <div class="qodef-e-media-image qodef--background"
+                                        style="background-image: url( wp-content/uploads/2021/08/water-home-blog-img3-1.jpg)">
+                                        <img loading="lazy" loading="lazy" decoding="async" width="1400" height="1954"
+                                          src="wp-content/uploads/2021/08/water-home-blog-img3-1.jpg"
+                                          class="attachment-full size-full wp-post-image" alt="d" />
+                                      </div>
+                                    </div>
+                                    <div class="qodef-e-content qodef--initial">
+                                      <div class="qodef-e-top-holder">
+                                        <div class="qodef-e-info">
+                                          <a href="indexb0b7.html?cat=6" rel="tag">Infrastructure</a>
+                                          <div class="qodef-info-separator-end">
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div class="qodef-e-text">
+                                        <h3 itemprop="name" class="qodef-e-title entry-title">
+                                          <a itemprop="url" class="qodef-e-title-link" href="index6734.html?p=3270">
+                                            Lasting Impressions </a>
+                                        </h3>
+                                      </div>
+                                    </div>
+                                    <div class="qodef-e-content qodef--hover">
+                                      <div class="qodef-e-text">
+                                        <h3 itemprop="name" class="qodef-e-title entry-title">
+                                          <a itemprop="url" class="qodef-e-title-link" href="index6734.html?p=3270">
+                                            Lasting Impressions </a>
+                                        </h3>
+                                        <p itemprop="description" class="qodef-e-excerpt">Lorem ipsum
+                                          dolor sit amet, consectetur
+                                          adipiscing elit. In augue ligula,
+                                          feugiat ut nulla consequat. Ut est
+                                          lacus</p>
+                                      </div>
+                                      <div class="qodef-e-bottom-holder">
+                                        <div class="qodef-e-read-more">
+                                          <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
+                                            href="index6734.html?p=3270" target="_self"> <span
+                                              class="qodef-m-button-icon"><svg class="qodef-svg--plus"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14"
+                                                viewBox="0 0 14 14">
+                                                <path class="qodef-m-horizontal" d="M0,0H14V2H0Z"
+                                                  transform="translate(0 6)" />
+                                                <path class="qodef-m-vertical" d="M0,0H2V14H0Z"
+                                                  transform="translate(6)" />
+                                              </svg></span> <span class="qodef-m-button-text">Read
+                                              more<br /> about this
+                                              case</span> </a>
+                                        </div>
+                                      </div>
+                                      <a itemprop="url" class="qodef-e-post-link" href="index6734.html?p=3270"></a>
+                                    </div>
+                                  </div>
+                                </article>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+
               </div>
             </div>
           </div>

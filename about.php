@@ -182,9 +182,9 @@
 		}
 
 		.qodef-page-title {
-			height: 673px;
+			height: 573px;
 			background-color: transparent;
-			background-image: url(wp-content/uploads/2021/10/about-us-title-image-new-1.jpg);
+			background-image: url(wp-content/uploads/2021/10/about.webp);
 		}
 
 		.qodef-page-title .qodef-m-content {
@@ -200,6 +200,7 @@
 				height: 570px;
 			}
 		}
+
 
 		@media only screen and (max-width: 1024px) {
 			.qodef-page-title .qodef-m-content {
@@ -231,11 +232,60 @@
 				line-height: 50px;
 			}
 
+			.video-section {
+				position: relative;
+
+				min-height: 800px;
+				height: auto;
+				overflow: hidden;
+			}
+
 			h2,
 			.qodef-h2 {
 				font-size: 37px;
 				line-height: 45px;
 			}
+		}
+
+
+
+		.video-section {
+			position: relative;
+
+			min-height: 600px;
+			height: auto;
+			overflow: hidden;
+		}
+
+		.video-section.video {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			min-width: 100%;
+			min-height: 100%;
+			width: auto;
+			height: auto;
+			object-fit: cover;
+		}
+
+		.video-section .overlay {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			/* background: rgba(0, 0, 0, 0.5); */
+			/* Optional dark overlay */
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		.elementor-2602 .elementor-element.elementor-element-94e4a01>.elementor-container {
+			bottom: 0px;
+			padding: 100px 0 0 0;
+			position: absolute;
 		}
 	</style>
 	<link rel='stylesheet' id='globefarer-core-elementor-css'
@@ -369,64 +419,41 @@
 							<div data-elementor-type="wp-page" data-elementor-id="2602" class="elementor elementor-2602"
 								data-elementor-post-type="page">
 								<section
-									class="elementor-section elementor-top-section elementor-element elementor-element-bfefa21 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
-									data-id="bfefa21" data-element_type="section">
+									class="elementor-section elementor-top-section elementor-element elementor-element-6126ec6 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
+									data-id="6126ec6" data-element_type="section"
+									data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-71228df"
-											data-id="71228df" data-element_type="column">
+										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-111948d"
+											data-id="111948d" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-f44b3a7 elementor-widget elementor-widget-globefarer_core_tabbed_info"
-													data-id="f44b3a7" data-element_type="widget"
-													data-widget_type="globefarer_core_tabbed_info.default">
+												<div class="elementor-element elementor-element-d1b2694 elementor-widget elementor-widget-globefarer_core_divided_image_info"
+													data-id="d1b2694" data-element_type="widget"
+													data-widget_type="globefarer_core_divided_image_info.default">
 													<div class="elementor-widget-container">
 														<div
-															class="qodef-shortcode qodef-m  qodef-tabbed-info qodef-layout--standard">
-															<ul class="qodef-m-navigation">
-																<li>
-																	<a href="qodef-tab--93b2e5e.html">
-																		Air Freight </a>
-																</li>
-																<li>
-																	<a href="qodef-tab--88e6bad.html">
-																		Rail Freight </a>
-																</li>
-																<li>
-																	<a href="qodef-tab--08887a2.html">
-																		LTL Freight </a>
-																</li>
-																<li>
-																	<a href="qodef-tab--89ebe54.html">
-																		Sea Freight </a>
-																</li>
-																<li>
-																	<a href="qodef-tab--ecdb426.html">
-																		Land Freight </a>
-																</li>
-																<li>
-																	<a href="qodef-tab--0567851.html">
-																		Warehousing </a>
-																</li>
-															</ul>
-															<div class="qodef-m-content" id="qodef-tab--93b2e5e">
-																<div class="qodef-m-content-left">
-																	<div class="qodef-m-image">
-																		<img fetchpriority="high" fetchpriority="high"
-																			decoding="async" width="800" height="425"
-																			src="wp-content/uploads/2021/08/main-home-tabbed-info-1-1.png"
-																			class="attachment-full size-full" alt="m" />
-																	</div>
-																</div>
-																<div class="qodef-m-content-right">
-																	<h2 class="qodef-m-title">
-																		Secure courier for small &amp; big packages
-																	</h2>
-																	<p class="qodef-m-text">
-																		Lorem ipsum dolor sit amet, id has nihil discere
-																		vocibus. No novum cu labor probatus cum, te
-																		utamur scripta ei legat cum qui ei sapere quo
-																		noster sum periculis ad. </p>
-																	<a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual  qodef-html--link"
-																		href="./class=" qodef-m-button-icon"><svg
+															class="qodef-shortcode qodef-m  qodef-divided-image-info qodef-layout--image-right qodef-separator--on qodef-vertically-centered--on qodef-breakpoint--1024 qodef-appear-animation--no ">
+															<div class="qodef-m-content"
+																style="margin-top: 0px;padding-left: 0px;padding-right: 4%">
+																<h2 itemprop="name" class="qodef-m-title"
+																	style="margin-bottom: 29px">
+																	Who we are
+																</h2>
+																<p class="qodef-m-text">
+																	New World Cargo – Seamless Shipping, Personalized
+																	Service
+
+																	At New World Cargo, we go beyond shipping—we deliver
+																	reliability with a personal touch. From your first
+																	inquiry to final delivery, our team ensures your
+																	cargo is handled with care every step of the way.
+
+																	With expertise in international logistics and strong
+																	global partnerships, we provide fast, efficient, and
+																	transparent shipping solutions tailored to your
+																	needs. </p>
+																<a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual  qodef-html--link"
+																	href="services.php" target="_self"> <span
+																		class="qodef-m-button-icon"><svg
 																			class="qodef-svg--plus"
 																			xmlns="http://www.w3.org/2000/svg"
 																			xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -438,175 +465,15 @@
 																				d="M0,0H2V14H0Z"
 																				transform="translate(6)" />
 																		</svg></span> <span
-																			class="qodef-m-button-text">View more<br />
-																			about our services</span> </a>
-																</div>
+																		class="qodef-m-button-text">View more<br />
+																		about our services</span> </a>
 															</div>
-															<div class="qodef-m-content" id="qodef-tab--88e6bad">
-																<div class="qodef-m-content-left">
-																	<div class="qodef-m-image">
-																		<img decoding="async" width="800" height="425"
-																			src="wp-content/uploads/2021/08/main-home-tabbed-info-2-1.jpg"
-																			class="attachment-full size-full" alt="m" />
-																	</div>
-																</div>
-																<div class="qodef-m-content-right">
-																	<h2 class="qodef-m-title">
-																		Great &amp; affordable courier transport </h2>
-																	<p class="qodef-m-text">
-																		Lorem ipsum dolor sit amet, id has nihil discere
-																		vocibus. No novum cu labor probatus cum, te
-																		utamur scripta ei legat cum qui ei sapere quo
-																		noster sum periculis ad. </p>
-																	<a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual  qodef-html--link"
-																		href="./pan class=" qodef-m-button-icon"><svg
-																			class="qodef-svg--plus"
-																			xmlns="http://www.w3.org/2000/svg"
-																			xmlns:xlink="http://www.w3.org/1999/xlink"
-																			width="14" height="14" viewBox="0 0 14 14">
-																			<path class="qodef-m-horizontal"
-																				d="M0,0H14V2H0Z"
-																				transform="translate(0 6)" />
-																			<path class="qodef-m-vertical"
-																				d="M0,0H2V14H0Z"
-																				transform="translate(6)" />
-																		</svg></span> <span
-																			class="qodef-m-button-text">View more<br />
-																			about our services</span> </a>
-																</div>
-															</div>
-															<div class="qodef-m-content" id="qodef-tab--08887a2">
-																<div class="qodef-m-content-left">
-																	<div class="qodef-m-image">
-																		<img loading="lazy" loading="lazy"
-																			decoding="async" width="800" height="425"
-																			src="wp-content/uploads/2021/08/main-home-tabbed-info-3-1.jpg"
-																			class="attachment-full size-full" alt="m" />
-																	</div>
-																</div>
-																<div class="qodef-m-content-right">
-																	<h2 class="qodef-m-title">
-																		Any location and any time we’ll be there </h2>
-																	<p class="qodef-m-text">
-																		Lorem ipsum dolor sit amet, id has nihil discere
-																		vocibus. No novum cu labor probatus cum, te
-																		utamur scripta ei legat cum qui ei sapere quo
-																		noster sum periculis ad. </p>
-																	<a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual  qodef-html--link"
-																		href="./n class=" qodef-m-button-icon"><svg
-																			class="qodef-svg--plus"
-																			xmlns="http://www.w3.org/2000/svg"
-																			xmlns:xlink="http://www.w3.org/1999/xlink"
-																			width="14" height="14" viewBox="0 0 14 14">
-																			<path class="qodef-m-horizontal"
-																				d="M0,0H14V2H0Z"
-																				transform="translate(0 6)" />
-																			<path class="qodef-m-vertical"
-																				d="M0,0H2V14H0Z"
-																				transform="translate(6)" />
-																		</svg></span> <span
-																			class="qodef-m-button-text">View more<br />
-																			about our services</span> </a>
-																</div>
-															</div>
-															<div class="qodef-m-content" id="qodef-tab--89ebe54">
-																<div class="qodef-m-content-left">
-																	<div class="qodef-m-image">
-																		<img loading="lazy" loading="lazy"
-																			decoding="async" width="800" height="425"
-																			src="wp-content/uploads/2021/08/main-home-tabbed-info-4-1.jpg"
-																			class="attachment-full size-full" alt="m" />
-																	</div>
-																</div>
-																<div class="qodef-m-content-right">
-																	<h2 class="qodef-m-title">
-																		Quality packing material for items </h2>
-																	<p class="qodef-m-text">
-																		Lorem ipsum dolor sit amet, id has nihil discere
-																		vocibus. No novum cu labor probatus cum, te
-																		utamur scripta ei legat cum qui ei sapere quo
-																		noster sum periculis ad. </p>
-																	<a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual  qodef-html--link"
-																		href="./s=" qodef-svg--plus"
-																		xmlns="http://www.w3.org/2000/svg"
-																		xmlns:xlink="http://www.w3.org/1999/xlink"
-																		width="14" height="14" viewBox="0 0 14 14">
-																		<path class="qodef-m-horizontal"
-																			d="M0,0H14V2H0Z"
-																			transform="translate(0 6)" />
-																		<path class="qodef-m-vertical" d="M0,0H2V14H0Z"
-																			transform="translate(6)" /></svg></span>
-																		<span class="qodef-m-button-text">View
-																			more<br /> about our services</span>
-																	</a>
-																</div>
-															</div>
-															<div class="qodef-m-content" id="qodef-tab--ecdb426">
-																<div class="qodef-m-content-left">
-																	<div class="qodef-m-image">
-																		<img loading="lazy" loading="lazy"
-																			decoding="async" width="800" height="425"
-																			src="wp-content/uploads/2021/08/main-home-tabbed-info-5-1.jpg"
-																			class="attachment-full size-full" alt="m" />
-																	</div>
-																</div>
-																<div class="qodef-m-content-right">
-																	<h2 class="qodef-m-title">
-																		Easy &amp; fast on-spot payment methods </h2>
-																	<p class="qodef-m-text">
-																		Lorem ipsum dolor sit amet, id has nihil discere
-																		vocibus. No novum cu labor probatus cum, te
-																		utamur scripta ei legat cum qui ei sapere quo
-																		noster sum periculis ad. </p>
-																	<a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual  qodef-html--link"
-																		href="./class=" qodef-svg--plus"
-																		xmlns="http://www.w3.org/2000/svg"
-																		xmlns:xlink="http://www.w3.org/1999/xlink"
-																		width="14" height="14" viewBox="0 0 14 14">
-																		<path class="qodef-m-horizontal"
-																			d="M0,0H14V2H0Z"
-																			transform="translate(0 6)" />
-																		<path class="qodef-m-vertical" d="M0,0H2V14H0Z"
-																			transform="translate(6)" /></svg></span>
-																		<span class="qodef-m-button-text">View
-																			more<br /> about our services</span>
-																	</a>
-																</div>
-															</div>
-															<div class="qodef-m-content" id="qodef-tab--0567851">
-																<div class="qodef-m-content-left">
-																	<div class="qodef-m-image">
-																		<img loading="lazy" loading="lazy"
-																			decoding="async" width="800" height="425"
-																			src="wp-content/uploads/2021/08/main-home-tabbed-info-6-1.jpg"
-																			class="attachment-full size-full" alt="m" />
-																	</div>
-																</div>
-																<div class="qodef-m-content-right">
-																	<h2 class="qodef-m-title">
-																		Our fleet covers your needs &amp; pricing range
-																	</h2>
-																	<p class="qodef-m-text">
-																		Lorem ipsum dolor sit amet, id has nihil discere
-																		vocibus. No novum cu labor probatus cum, te
-																		utamur scripta ei legat cum qui ei sapere quo
-																		noster sum periculis ad. </p>
-																	<a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual  qodef-html--link"
-																		href="./<span class=" qodef-m-button-icon"><svg
-																			class="qodef-svg--plus"
-																			xmlns="http://www.w3.org/2000/svg"
-																			xmlns:xlink="http://www.w3.org/1999/xlink"
-																			width="14" height="14" viewBox="0 0 14 14">
-																			<path class="qodef-m-horizontal"
-																				d="M0,0H14V2H0Z"
-																				transform="translate(0 6)" />
-																			<path class="qodef-m-vertical"
-																				d="M0,0H2V14H0Z"
-																				transform="translate(6)" />
-																		</svg></span> <span
-																			class="qodef-m-button-text">View more<br />
-																			about our services</span> </a>
-																</div>
+															<div class="qodef-m-image"
+																style="width: 53%;padding-left: 5.8%;padding-right: 0px">
+																<img style="border-radius: 20px; " loading="lazy"
+																	loading="lazy" decoding="async" width="800"
+																	height="507" src="wp-content/uploads/2021/10/1.webp"
+																	class="attachment-full size-full" alt="d" />
 															</div>
 														</div>
 													</div>
@@ -615,19 +482,27 @@
 										</div>
 									</div>
 								</section>
+
 								<section
 									class="elementor-section elementor-top-section elementor-element elementor-element-94e4a01 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle qodef-elementor-content-grid elementor-section-height-default elementor-section-items-middle"
 									data-id="94e4a01" data-element_type="section"
 									data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8d3e40f"
+									<video autoplay muted loop playsinline>
+										<source src="video.mp4" type="video/mp4">
+										Your browser does not support the video tag.
+									</video>
+									<div class="video-section  elementor-container elementor-column-gap-no">
+										<div class="overlay elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8d3e40f"
 											data-id="8d3e40f" data-element_type="column">
 											<div class="elementor-widget-wrap elementor-element-populated">
+
 												<div class="elementor-element elementor-element-3956164 elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-globefarer_core_testimonials_list"
 													data-id="3956164" data-element_type="widget"
 													data-widget_type="globefarer_core_testimonials_list.default">
 													<div class="elementor-widget-container">
-														<div class="qodef-shortcode qodef-m  qodef-testimonials-list qodef-skin--light qodef-grid qodef-swiper-container  qodef-gutter--normal qodef-col-num--1 qodef-item-layout--info-below qodef-responsive--predefined"
+
+														<div style="visibility: visible; padding-left:54px"
+															class="qodef-shortcode qodef-m  qodef-testimonials-list qodef-skin--light qodef-grid qodef-swiper-container  qodef-gutter--normal qodef-col-num--1 qodef-item-layout--info-below qodef-responsive--predefined"
 															data-options="{&quot;slidesPerView&quot;:&quot;1&quot;,&quot;spaceBetween&quot;:30,&quot;loop&quot;:false,&quot;autoplay&quot;:false,&quot;speed&quot;:&quot;&quot;,&quot;speedAnimation&quot;:&quot;&quot;,&quot;slideAnimation&quot;:&quot;&quot;,&quot;outsideNavigation&quot;:&quot;yes&quot;,&quot;unique&quot;:14}">
 															<div class="qodef-m-icon" style="color: #FFFFFF">
 																<svg class="qodef-svg--quote"
@@ -649,8 +524,9 @@
 																<div class="qodef-e swiper-slide ">
 																	<div class="qodef-e-inner">
 																		<h2 itemprop="description" class="qodef-e-text">
-																			Eos no dico graeci sea, debet nihil omnium
-																			quodsi quot dolores percipit.</h2>
+																			So happy about to have been part of the
+																			experience, newworld cargo helped me and my
+																			business so well.</h2>
 																		<div class="qodef-e-content">
 																			<div class="qodef-e-media-image">
 																				<img loading="lazy" loading="lazy"
@@ -665,7 +541,7 @@
 																					style="color: #FFFFFF">Satisfied
 																					Client</h6>
 																				<h3 class="qodef-e-author-name">George
-																					Moreno</h3>
+																					Munganga</h3>
 																			</div>
 																		</div>
 																	</div>
@@ -777,213 +653,8 @@
 										</div>
 									</div>
 								</section>
-								<section
-									class="elementor-section elementor-top-section elementor-element elementor-element-6126ec6 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
-									data-id="6126ec6" data-element_type="section"
-									data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-111948d"
-											data-id="111948d" data-element_type="column">
-											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-d1b2694 elementor-widget elementor-widget-globefarer_core_divided_image_info"
-													data-id="d1b2694" data-element_type="widget"
-													data-widget_type="globefarer_core_divided_image_info.default">
-													<div class="elementor-widget-container">
-														<div
-															class="qodef-shortcode qodef-m  qodef-divided-image-info qodef-layout--image-right qodef-separator--on qodef-vertically-centered--on qodef-breakpoint--1024 qodef-appear-animation--no ">
-															<div class="qodef-m-content"
-																style="margin-top: 0px;padding-left: 0px;padding-right: 4%">
-																<h2 itemprop="name" class="qodef-m-title"
-																	style="margin-bottom: 29px">
-																	We have all your needs, from start to the very end
-																</h2>
-																<p class="qodef-m-text">
-																	Providing an independent advice and identifyi ng the
-																	right fit for you. Services are sourced </p>
-																<a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual  qodef-html--link"
-																	href="./global-network/" target="_self"> <span
-																		class="qodef-m-button-icon"><svg
-																			class="qodef-svg--plus"
-																			xmlns="http://www.w3.org/2000/svg"
-																			xmlns:xlink="http://www.w3.org/1999/xlink"
-																			width="14" height="14" viewBox="0 0 14 14">
-																			<path class="qodef-m-horizontal"
-																				d="M0,0H14V2H0Z"
-																				transform="translate(0 6)" />
-																			<path class="qodef-m-vertical"
-																				d="M0,0H2V14H0Z"
-																				transform="translate(6)" />
-																		</svg></span> <span
-																		class="qodef-m-button-text">View more<br />
-																		about our services</span> </a>
-															</div>
-															<div class="qodef-m-image"
-																style="width: 63%;padding-left: 5.8%;padding-right: 0px">
-																<img loading="lazy" loading="lazy" decoding="async"
-																	width="800" height="408"
-																	src="wp-content/uploads/2021/08/main-home-img-2-1.jpg"
-																	class="attachment-full size-full" alt="d" />
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-								<section
-									class="elementor-section elementor-top-section elementor-element elementor-element-140798d elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
-									data-id="140798d" data-element_type="section">
-									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-482ff79"
-											data-id="482ff79" data-element_type="column">
-											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-5514541 elementor-widget elementor-widget-globefarer_core_section_title"
-													data-id="5514541" data-element_type="widget"
-													data-widget_type="globefarer_core_section_title.default">
-													<div class="elementor-widget-container">
-														<div
-															class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef-appear-animation--no">
-															<h2 class="qodef-m-title">
-																Meet the pros </h2>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-								<section
-									class="elementor-section elementor-top-section elementor-element elementor-element-0877440 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default"
-									data-id="0877440" data-element_type="section">
-									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c5b4912"
-											data-id="c5b4912" data-element_type="column">
-											<div class="elementor-widget-wrap elementor-element-populated">
-												<div class="elementor-element elementor-element-d6d8363 elementor-widget elementor-widget-globefarer_core_team_list"
-													data-id="d6d8363" data-element_type="widget"
-													data-widget_type="globefarer_core_team_list.default">
-													<div class="elementor-widget-container">
-														<div class="qodef-shortcode qodef-m  qodef-team-list qodef-item-layout--info-on-side qodef-grid qodef-layout--columns  qodef-gutter--medium qodef-col-num--4 qodef-item-layout--info-on-side qodef--no-bottom-space qodef-pagination--off qodef-responsive--custom qodef-col-num--1440--4 qodef-col-num--1366--4 qodef-col-num--1024--2 qodef-col-num--768--2 qodef-col-num--680--1 qodef-col-num--480--1"
-															data-options="{&quot;plugin&quot;:&quot;globefarer_core&quot;,&quot;module&quot;:&quot;post-types\/team\/shortcodes&quot;,&quot;shortcode&quot;:&quot;team-list&quot;,&quot;post_type&quot;:&quot;team&quot;,&quot;next_page&quot;:&quot;2&quot;,&quot;max_pages_num&quot;:1,&quot;behavior&quot;:&quot;columns&quot;,&quot;images_proportion&quot;:&quot;full&quot;,&quot;columns&quot;:&quot;4&quot;,&quot;columns_responsive&quot;:&quot;custom&quot;,&quot;columns_1440&quot;:&quot;4&quot;,&quot;columns_1366&quot;:&quot;4&quot;,&quot;columns_1024&quot;:&quot;2&quot;,&quot;columns_768&quot;:&quot;2&quot;,&quot;columns_680&quot;:&quot;1&quot;,&quot;columns_480&quot;:&quot;1&quot;,&quot;space&quot;:&quot;medium&quot;,&quot;posts_per_page&quot;:&quot;4&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;additional_params&quot;:&quot;tax&quot;,&quot;tax&quot;:&quot;team-category&quot;,&quot;tax_slug&quot;:&quot;main home&quot;,&quot;layout&quot;:&quot;info-on-side&quot;,&quot;title_tag&quot;:&quot;h4&quot;,&quot;pagination_type&quot;:&quot;no-pagination&quot;,&quot;object_class_name&quot;:&quot;GlobeFarerCore_Team_List_Shortcode&quot;,&quot;taxonomy_filter&quot;:&quot;team-category&quot;,&quot;additional_query_args&quot;:{&quot;tax_query&quot;:[{&quot;taxonomy&quot;:&quot;team-category&quot;,&quot;field&quot;:&quot;slug&quot;,&quot;terms&quot;:&quot;main home&quot;}]},&quot;item_classes&quot;:&quot;qodef-e qodef-grid-item &quot;,&quot;has_single&quot;:true,&quot;space_value&quot;:20}">
-															<div class="qodef-grid-inner clear">
-																<div
-																	class="qodef-e qodef-grid-item  post-469 team type-team status-publish has-post-thumbnail hentry team-category-main-home">
-																	<div class="qodef-e-inner">
-																		<div class="qodef-e-image">
-																			<div class="qodef-e-media-image">
-																				<a itemprop="url"
-																					href="index7c54.html?team=lionel-todd">
-																					<img loading="lazy" loading="lazy"
-																						decoding="async" width="140"
-																						height="140"
-																						src="wp-content/uploads/2021/08/main-home-team-1-1-1.png"
-																						class="attachment-full size-full wp-post-image"
-																						alt="d" /> </a>
-																			</div>
-																		</div>
-																		<div class="qodef-e-content">
-																			<span class="qodef-e-role">Developer</span>
-																			<h4 itemprop="name"
-																				class="qodef-e-title entry-title">
-																				<a itemprop="url"
-																					class="qodef-e-title-link"
-																					href="index7c54.html?team=lionel-todd">
-																					Lionel Todd </a>
-																			</h4>
-																		</div>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-grid-item  post-471 team type-team status-publish has-post-thumbnail hentry team-category-main-home">
-																	<div class="qodef-e-inner">
-																		<div class="qodef-e-image">
-																			<div class="qodef-e-media-image">
-																				<a itemprop="url"
-																					href="index4543.html?team=nina-west">
-																					<img loading="lazy" loading="lazy"
-																						decoding="async" width="140"
-																						height="140"
-																						src="wp-content/uploads/2021/08/team-single-img1-1.png"
-																						class="attachment-full size-full wp-post-image"
-																						alt="r" /> </a>
-																			</div>
-																		</div>
-																		<div class="qodef-e-content">
-																			<span class="qodef-e-role">Copywriter</span>
-																			<h4 itemprop="name"
-																				class="qodef-e-title entry-title">
-																				<a itemprop="url"
-																					class="qodef-e-title-link"
-																					href="index4543.html?team=nina-west">
-																					Nina West </a>
-																			</h4>
-																		</div>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-grid-item  post-473 team type-team status-publish has-post-thumbnail hentry team-category-main-home">
-																	<div class="qodef-e-inner">
-																		<div class="qodef-e-image">
-																			<div class="qodef-e-media-image">
-																				<a itemprop="url"
-																					href="indexd11e.html?team=scott-moran">
-																					<img loading="lazy" loading="lazy"
-																						decoding="async" width="140"
-																						height="140"
-																						src="wp-content/uploads/2021/08/main-home-team-3-1-1.png"
-																						class="attachment-full size-full wp-post-image"
-																						alt="d" /> </a>
-																			</div>
-																		</div>
-																		<div class="qodef-e-content">
-																			<span class="qodef-e-role">Co Founder</span>
-																			<h4 itemprop="name"
-																				class="qodef-e-title entry-title">
-																				<a itemprop="url"
-																					class="qodef-e-title-link"
-																					href="indexd11e.html?team=scott-moran">
-																					Scott Moran </a>
-																			</h4>
-																		</div>
-																	</div>
-																</div>
-																<div
-																	class="qodef-e qodef-grid-item  post-475 team type-team status-publish has-post-thumbnail hentry team-category-main-home">
-																	<div class="qodef-e-inner">
-																		<div class="qodef-e-image">
-																			<div class="qodef-e-media-image">
-																				<a itemprop="url"
-																					href="index4bdf.html?team=susie-marsh">
-																					<img loading="lazy" loading="lazy"
-																						decoding="async" width="140"
-																						height="140"
-																						src="wp-content/uploads/2021/08/main-home-team-4-1-1.png"
-																						class="attachment-full size-full wp-post-image"
-																						alt="d" /> </a>
-																			</div>
-																		</div>
-																		<div class="qodef-e-content">
-																			<span class="qodef-e-role">Web
-																				Designer</span>
-																			<h4 itemprop="name"
-																				class="qodef-e-title entry-title">
-																				<a itemprop="url"
-																					class="qodef-e-title-link"
-																					href="index4bdf.html?team=susie-marsh">
-																					Susie Marsh </a>
-																			</h4>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
+
+
 							</div>
 						</div>
 					</div>
