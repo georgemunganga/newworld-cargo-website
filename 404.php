@@ -788,7 +788,7 @@
                             </div>
                         </div>
                         <div class="qodef-404-image">
-                            <img alt="Error page 404" src="/wp-content/themes/globefarer/assets/img/404.png">
+                            <img alt="Error page 404" src="./wp-content/uploads/2021/10/404.webp">
                         </div>
                     </div>
                 </main>

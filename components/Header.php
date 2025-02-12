@@ -87,7 +87,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
       <ul id="menu-main-menu-1" class="menu">
         <li
           class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-7704 qodef--hide-link qodef-menu-item--narrow">
-          <a onclick="JavaScript: return false;"><span class="qodef-menu-item-text">Home<svg
+          <a href="index.php"><span class="qodef-menu-item-text">Home<svg
                 class="qodef-svg--menu-arrow qodef-menu-item-arrow" xmlns="http://www.w3.org/2000/svg"
                 xmlns:xlink="http://www.w3.org/1999/xlink" width="8.485" height="14.14" viewBox="0 0 8.485 14.14">
                 <path d="M0,0H10V2H0Z" transform="translate(8.485 7.069) rotate(135)" />
@@ -689,7 +689,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
         <ul id="menu-main-menu-2" class="menu">
           <li
             class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-7704 qodef--hide-link qodef-menu-item--narrow">
-            <a onclick="JavaScript: return false;"><span class="qodef-menu-item-text">Home<svg
+            <a href="index.php"><span class="qodef-menu-item-text">Home<svg
                   class="qodef-svg--menu-arrow qodef-menu-item-arrow" xmlns="http://www.w3.org/2000/svg"
                   xmlns:xlink="http://www.w3.org/1999/xlink" width="8.485" height="14.14" viewBox="0 0 8.485 14.14">
                   <path d="M0,0H10V2H0Z" transform="translate(8.485 7.069) rotate(135)" />
@@ -1259,7 +1259,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
     <ul id="menu-main-menu-4" class="">
       <li
         class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-7704 qodef--hide-link qodef-menu-item--narrow">
-        <a onclick="JavaScript: return false;"><span class="qodef-menu-item-text">Home</span></a><svg
+        <a href="index.php"><span class="qodef-menu-item-text">Home</span></a><svg
           class="qodef-svg--menu-arrow qodef-menu-item-arrow" xmlns="http://www.w3.org/2000/svg"
           xmlns:xlink="http://www.w3.org/1999/xlink" width="8.485" height="14.14" viewBox="0 0 8.485 14.14">
           <path d="M0,0H10V2H0Z" transform="translate(8.485 7.069) rotate(135)" />
