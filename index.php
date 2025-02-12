@@ -585,7 +585,7 @@ ini_set('display_errors', 1);
         margin-right: 30px;
         margin: 1rem;
         padding-bottom: 4rem;
-        
+
 
       }
 
@@ -1476,8 +1476,11 @@ ini_set('display_errors', 1);
                                   Secure courier for all your packages
                                 </h2>
                                 <p class="qodef-m-text">
-                                  Lorem ipsum dolor sit amet, et sale ad mutat
-                                  nusqua ius ea has autem aeterno divine sum.
+                                  Your financial transactions are protected with the highest level of security protocols
+                                  to prevent fraud and safeguard your funds. We prioritize efficiency to save you time
+                                  and resources, allowing you to focus on your core business objectives. Our services
+                                  are customized to meet your unique procurement needs, whether you’re an individual or
+                                  a large corporation.
                                 </p>
                                 <a class="qodef-shortcode qodef-m qodef-m-button qodef-button qodef-layout--textual qodef-html--link"
                                   href="https://globefarer.qodeinteractive.com/about-us/" target="_self">
@@ -1495,8 +1498,9 @@ ini_set('display_errors', 1);
                                     width: 63%;
                                     padding-left: 5.8%;
                                     padding-right: 0px;
+
                                   ">
-                                <img loading="lazy" loading="lazy" decoding="async" width="800" height="408"
+                                <img style="border-radius:20px;" loading="lazy" loading="lazy" decoding="async" width="800" height="608"
                                   src="wp-content/uploads/2021/08/main-home-img-2-1.jpg"
                                   class="attachment-full size-full" alt="d" />
                               </div>
@@ -1531,29 +1535,29 @@ ini_set('display_errors', 1);
                                       <div class="qodef-e-media-video">
                                         <!-- <video autoplay="autoplay" loop="loop" muted="muted" playsinline>
                                           <source
-                                            src="/wp-content/uploads/2021/09/blog-flag-video.mp4"
+                                            src="video.mp4"
                                             type="video/mp4">
                                         </video> -->
                                         <div class="qodef-e-media-image qodef--background"
-                                        style="background-image: url( wp-content/uploads/2021/08/water-home-blog-img1-1.jpg)">
-                                        <img loading="lazy" loading="lazy" decoding="async" width="1400" height="1954"
-                                          src="wp-content/uploads/2021/08/water-home-blog-img1-1.jpg"
-                                          class="attachment-full size-full wp-post-image" alt="f" />
-                                      </div>
-                                        <a class="qodef-e-media-video-link" href="indexa0e4.html?p=3280"></a>
+                                          style="background-image: url( wp-content/uploads/2021/08/water-home-blog-img2-1.jpg)">
+                                          <img loading="lazy" loading="lazy" decoding="async" width="1400" height="1954"
+                                            src="wp-content/uploads/2021/08/water-home-blog-img1-1.jpg"
+                                            class="attachment-full size-full wp-post-image" alt="f" />
+                                        </div>
+                                        <a class="qodef-e-media-video-link" href="#"></a>
                                       </div>
                                     </div>
                                     <div class="qodef-e-content qodef--initial">
                                       <div class="qodef-e-top-holder">
                                         <div class="qodef-e-info">
-                                          <a href="indexb0b7.html?cat=6" rel="tag">Infrastructure</a>
+                                          <a href="#" rel="tag">Infrastructure</a>
                                           <div class="qodef-info-separator-end">
                                           </div>
                                         </div>
                                       </div>
                                       <div class="qodef-e-text">
                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                          <a itemprop="url" class="qodef-e-title-link" href="indexa0e4.html?p=3280">
+                                          <a itemprop="url" class="qodef-e-title-link" href="#">
                                             Simplified Building </a>
                                         </h3>
                                       </div>
@@ -1561,7 +1565,7 @@ ini_set('display_errors', 1);
                                     <div class="qodef-e-content qodef--hover">
                                       <div class="qodef-e-text">
                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                          <a itemprop="url" class="qodef-e-title-link" href="indexa0e4.html?p=3280">
+                                          <a itemprop="url" class="qodef-e-title-link" href="#">
                                             Simplified Building </a>
                                         </h3>
                                         <p itemprop="description" class="qodef-e-excerpt">Lorem ipsum
@@ -1573,9 +1577,8 @@ ini_set('display_errors', 1);
                                       <div class="qodef-e-bottom-holder">
                                         <div class="qodef-e-read-more">
                                           <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
-                                            href="indexa0e4.html?p=3280" target="_self"> <span
-                                              class="qodef-m-button-icon"><svg class="qodef-svg--plus"
-                                                xmlns="http://www.w3.org/2000/svg"
+                                            href="#" target="_self"> <span class="qodef-m-button-icon"><svg
+                                                class="qodef-svg--plus" xmlns="http://www.w3.org/2000/svg"
                                                 xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14"
                                                 viewBox="0 0 14 14">
                                                 <path class="qodef-m-horizontal" d="M0,0H14V2H0Z"
@@ -1587,7 +1590,7 @@ ini_set('display_errors', 1);
                                               case</span> </a>
                                         </div>
                                       </div>
-                                      <a itemprop="url" class="qodef-e-post-link" href="indexa0e4.html?p=3280"></a>
+                                      <a itemprop="url" class="qodef-e-post-link" href="#"></a>
                                     </div>
                                   </div>
                                 </article>
@@ -1605,14 +1608,14 @@ ini_set('display_errors', 1);
                                     <div class="qodef-e-content qodef--initial">
                                       <div class="qodef-e-top-holder">
                                         <div class="qodef-e-info">
-                                          <a href="indexb0b7.html?cat=6" rel="tag">Infrastructure</a>
+                                          <a href="#" rel="tag">Infrastructure</a>
                                           <div class="qodef-info-separator-end">
                                           </div>
                                         </div>
                                       </div>
                                       <div class="qodef-e-text">
                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                          <a itemprop="url" class="qodef-e-title-link" href="indexb808.html?p=3255">
+                                          <a itemprop="url" class="qodef-e-title-link" href="#">
                                             Expert Tips </a>
                                         </h3>
                                       </div>
@@ -1620,21 +1623,18 @@ ini_set('display_errors', 1);
                                     <div class="qodef-e-content qodef--hover">
                                       <div class="qodef-e-text">
                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                          <a itemprop="url" class="qodef-e-title-link" href="indexb808.html?p=3255">
+                                          <a itemprop="url" class="qodef-e-title-link" href="#">
                                             Expert Tips </a>
                                         </h3>
-                                        <p itemprop="description" class="qodef-e-excerpt">Lorem ipsum
-                                          dolor sit amet, consectetur
-                                          adipiscing elit. In augue ligula,
-                                          feugiat ut nulla consequat. Ut est
-                                          lacus</p>
+                                        <p itemprop="description" class="qodef-e-excerpt">Book a meeting session with
+                                          one of our experts to and
+                                          get insights for your business today!</p>
                                       </div>
                                       <div class="qodef-e-bottom-holder">
                                         <div class="qodef-e-read-more">
                                           <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
-                                            href="indexb808.html?p=3255" target="_self"> <span
-                                              class="qodef-m-button-icon"><svg class="qodef-svg--plus"
-                                                xmlns="http://www.w3.org/2000/svg"
+                                            href="#" target="_self"> <span class="qodef-m-button-icon"><svg
+                                                class="qodef-svg--plus" xmlns="http://www.w3.org/2000/svg"
                                                 xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14"
                                                 viewBox="0 0 14 14">
                                                 <path class="qodef-m-horizontal" d="M0,0H14V2H0Z"
@@ -1646,7 +1646,7 @@ ini_set('display_errors', 1);
                                               case</span> </a>
                                         </div>
                                       </div>
-                                      <a itemprop="url" class="qodef-e-post-link" href="indexb808.html?p=3255"></a>
+                                      <a itemprop="url" class="qodef-e-post-link" href="#"></a>
                                     </div>
                                   </div>
                                 </article>
@@ -1664,14 +1664,14 @@ ini_set('display_errors', 1);
                                     <div class="qodef-e-content qodef--initial">
                                       <div class="qodef-e-top-holder">
                                         <div class="qodef-e-info">
-                                          <a href="indexb0b7.html?cat=6" rel="tag">Infrastructure</a>
+                                          <a href="#" rel="tag">Infrastructure</a>
                                           <div class="qodef-info-separator-end">
                                           </div>
                                         </div>
                                       </div>
                                       <div class="qodef-e-text">
                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                          <a itemprop="url" class="qodef-e-title-link" href="index50e4.html?p=3264">
+                                          <a itemprop="url" class="qodef-e-title-link" href="#">
                                             Different Roads </a>
                                         </h3>
                                       </div>
@@ -1679,7 +1679,7 @@ ini_set('display_errors', 1);
                                     <div class="qodef-e-content qodef--hover">
                                       <div class="qodef-e-text">
                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                          <a itemprop="url" class="qodef-e-title-link" href="index50e4.html?p=3264">
+                                          <a itemprop="url" class="qodef-e-title-link" href="#">
                                             Different Roads </a>
                                         </h3>
                                         <p itemprop="description" class="qodef-e-excerpt">Lorem ipsum
@@ -1691,9 +1691,8 @@ ini_set('display_errors', 1);
                                       <div class="qodef-e-bottom-holder">
                                         <div class="qodef-e-read-more">
                                           <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
-                                            href="index50e4.html?p=3264" target="_self"> <span
-                                              class="qodef-m-button-icon"><svg class="qodef-svg--plus"
-                                                xmlns="http://www.w3.org/2000/svg"
+                                            href="#" target="_self"> <span class="qodef-m-button-icon"><svg
+                                                class="qodef-svg--plus" xmlns="http://www.w3.org/2000/svg"
                                                 xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14"
                                                 viewBox="0 0 14 14">
                                                 <path class="qodef-m-horizontal" d="M0,0H14V2H0Z"
@@ -1705,7 +1704,7 @@ ini_set('display_errors', 1);
                                               case</span> </a>
                                         </div>
                                       </div>
-                                      <a itemprop="url" class="qodef-e-post-link" href="index50e4.html?p=3264"></a>
+                                      <a itemprop="url" class="qodef-e-post-link" href="#"></a>
                                     </div>
                                   </div>
                                 </article>
@@ -1723,14 +1722,14 @@ ini_set('display_errors', 1);
                                     <div class="qodef-e-content qodef--initial">
                                       <div class="qodef-e-top-holder">
                                         <div class="qodef-e-info">
-                                          <a href="indexb0b7.html?cat=6" rel="tag">Infrastructure</a>
+                                          <a href="#" rel="tag">Infrastructure</a>
                                           <div class="qodef-info-separator-end">
                                           </div>
                                         </div>
                                       </div>
                                       <div class="qodef-e-text">
                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                          <a itemprop="url" class="qodef-e-title-link" href="index6734.html?p=3270">
+                                          <a itemprop="url" class="qodef-e-title-link" href="#">
                                             Lasting Impressions </a>
                                         </h3>
                                       </div>
@@ -1738,7 +1737,7 @@ ini_set('display_errors', 1);
                                     <div class="qodef-e-content qodef--hover">
                                       <div class="qodef-e-text">
                                         <h3 itemprop="name" class="qodef-e-title entry-title">
-                                          <a itemprop="url" class="qodef-e-title-link" href="index6734.html?p=3270">
+                                          <a itemprop="url" class="qodef-e-title-link" href="#">
                                             Lasting Impressions </a>
                                         </h3>
                                         <p itemprop="description" class="qodef-e-excerpt">Lorem ipsum
@@ -1750,9 +1749,8 @@ ini_set('display_errors', 1);
                                       <div class="qodef-e-bottom-holder">
                                         <div class="qodef-e-read-more">
                                           <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link"
-                                            href="index6734.html?p=3270" target="_self"> <span
-                                              class="qodef-m-button-icon"><svg class="qodef-svg--plus"
-                                                xmlns="http://www.w3.org/2000/svg"
+                                            href="#" target="_self"> <span class="qodef-m-button-icon"><svg
+                                                class="qodef-svg--plus" xmlns="http://www.w3.org/2000/svg"
                                                 xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14"
                                                 viewBox="0 0 14 14">
                                                 <path class="qodef-m-horizontal" d="M0,0H14V2H0Z"
@@ -1764,7 +1762,7 @@ ini_set('display_errors', 1);
                                               case</span> </a>
                                         </div>
                                       </div>
-                                      <a itemprop="url" class="qodef-e-post-link" href="index6734.html?p=3270"></a>
+                                      <a itemprop="url" class="qodef-e-post-link" href="#"></a>
                                     </div>
                                   </div>
                                 </article>
