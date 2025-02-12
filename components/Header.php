@@ -731,7 +731,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                         </svg>About Us</span></a>
                   </li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-team menu-item-7781">
-                    <a href="indexada4.html?team=mary-simens"><span class="qodef-menu-item-text"><svg
+                    <a href="#"><span class="qodef-menu-item-text"><svg
                           class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                           xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                           <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -739,7 +739,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                         </svg>Our Team</span></a>
                   </li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7780">
-                    <a href="indexe588.html?page_id=3353"><span class="qodef-menu-item-text"><svg
+                    <a href="#"><span class="qodef-menu-item-text"><svg
                           class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                           xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                           <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -747,7 +747,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                         </svg>Meet The Crew</span></a>
                   </li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-career-item menu-item-7710">
-                    <a href="index02f4.html?career-item=stocking-associate"><span class="qodef-menu-item-text"><svg
+                    <a href="#"><span class="qodef-menu-item-text"><svg
                           class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                           xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                           <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -755,7 +755,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                         </svg>Job Application</span></a>
                   </li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7782">
-                    <a href="indexc921.html?page_id=3772"><span class="qodef-menu-item-text"><svg
+                    <a href="#"><span class="qodef-menu-item-text"><svg
                           class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                           xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                           <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -763,7 +763,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                         </svg>Available Positions</span></a>
                   </li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7778">
-                    <a href="index1fcc.html?page_id=3094"><span class="qodef-menu-item-text"><svg
+                    <a href="#"><span class="qodef-menu-item-text"><svg
                           class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                           xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                           <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -810,7 +810,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                         </svg>Our Services</span></a>
                   </li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7791">
-                    <a href="indexf03d.html?page_id=2814"><span class="qodef-menu-item-text"><svg
+                    <a href="#"><span class="qodef-menu-item-text"><svg
                           class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                           xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                           <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -818,7 +818,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                         </svg>What We Do</span></a>
                   </li>
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7794">
-                    <a href="indexc76e.html?page_id=7756"><span class="qodef-menu-item-text"><svg
+                    <a href="#"><span class="qodef-menu-item-text"><svg
                           class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                           xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                           <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -1183,7 +1183,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
               <div class="qodef-drop-down-second-inner">
                 <ul class="sub-menu">
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7793">
-                    <a href="index0e30.html?page_id=3235"><span class="qodef-menu-item-text"><svg
+                    <a href="#"><span class="qodef-menu-item-text"><svg
                           class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                           xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                           <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -1380,7 +1380,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                     </svg>Our Services</span></a>
               </li>
               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7791">
-                <a href="indexf03d.html?page_id=2814"><span class="qodef-menu-item-text"><svg
+                <a href="#"><span class="qodef-menu-item-text"><svg
                       class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                       xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                       <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -1388,7 +1388,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                     </svg>What We Do</span></a>
               </li>
               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7794">
-                <a href="indexc76e.html?page_id=7756"><span class="qodef-menu-item-text"><svg
+                <a href="#"><span class="qodef-menu-item-text"><svg
                       class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                       xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                       <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
