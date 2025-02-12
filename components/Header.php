@@ -50,7 +50,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
 						class="widget widget_globefarer_core_icon_list_item qodef-top-bar-widget">
 						<div
 							class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific">
-							<span class="qodef-m-list-title"> <a itemprop="url" href="./get-in-touch/" target="_self">
+							<span class="qodef-m-list-title"> <a itemprop="url" href="#" target="_self">
 									<span class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img
 												loading="lazy" width="20" height="17"
 												src="wp-content/uploads/2021/08/Support-Icon-top-header-1.png"
@@ -66,7 +66,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
 						class="widget widget_globefarer_core_icon_list_item qodef-top-bar-widget">
 						<div
 							class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific">
-							<span class="qodef-m-list-title"> <a itemprop="url" href="./step-1-3" target="_self"> <span
+							<span class="qodef-m-list-title"> <a itemprop="url" href="#" target="_self"> <span
 										class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img
 												loading="lazy" width="14" height="18"
 												src="wp-content/uploads/2021/08/Tracking-Icon-1.png"
@@ -167,7 +167,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                       </svg>FAQ Page</span></a>
                 </li>
                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711">
-                  <a href="./
+                  <a href="404.php"
                       ><span class=" qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus"
                       xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14"
                       height="14" viewBox="0 0 14 14">
@@ -840,7 +840,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                         </svg>FAQ Page</span></a>
                   </li>
                   <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711">
-                    <a href="./
+                    <a href="404.php"
                         ><span class=" qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus"
                         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14"
                         height="14" viewBox="0 0 14 14">
@@ -1467,8 +1467,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                     </svg>FAQ Page</span></a>
               </li>
               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711">
-                <a href="./404-error-page" href="./
-                      ><svg
+                <a href="404.php"><svg
                         class=" qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                   xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                   <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
