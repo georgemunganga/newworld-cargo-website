@@ -772,9 +772,9 @@
                 <main id="qodef-page-content" role="main">
                     <div id="qodef-404-page">
                         <div class="qodef-404-content">
-                            <h1 class="qodef-404-title">Error page 404 nn</h1>
-                            <p class="qodef-404-text">The page you are looking for doesn&#039;t exist. Return to the
-                                website&#039;s homepage to find what you&#039;re looking for.</p>
+                            <h1 class="qodef-404-title">Error page 404 </h1>
+                            <p class="qodef-404-text">The page you are looking for doesn't exist. Return to the
+                                website's homepage to find what you're looking for.</p>
                             <div class="qodef-404-button">
                                 <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link"
                                     href="./" target="_self"> <span class="qodef-m-button-icon"><svg

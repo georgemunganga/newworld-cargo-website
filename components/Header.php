@@ -7,76 +7,72 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
 ?>
 <?php if (!$isHomePage): ?>
   <div id="qodef-top-area">
-			<div id="qodef-top-area-inner">
-				<div class="qodef-widget-holder qodef--left">
-					<div id="block-19" class="widget widget_block qodef-top-bar-widget">
-						<div
-							class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
-							<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-								<div class="widget widget_globefarer_core_icon_list_item">
-									<div
-										class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific">
-										<span class="qodef-m-list-title"> <a itemprop="url" href="tel:+260 763 297 287"
-												target="_self"> <span class="qodef-m-list-title-inner"> <span
-														class="qodef-m-list-title-icon"> <img decoding="async"
-															width="15" height="15"
-															src="wp-content/uploads/2021/08/Phone-Icon-2-1.png"
-															class="attachment-full size-full" alt="phone icon" />
-													</span> <span class="qodef-m-list-title-text">+260 763 297 287</span>
-												</span> </a> </span></div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div id="block-41" class="widget widget_block qodef-top-bar-widget">
-						<hr
-							class="wp-block-separator has-text-color has-background has-white-background-color has-white-color" />
-					</div>
-					<div id="globefarer_core_icon_list_item-11"
-						class="widget widget_globefarer_core_icon_list_item qodef-top-bar-widget">
-						<div
-							class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific">
-							<span class="qodef-m-list-title"> <a itemprop="url" href="mailto:info@newworldcargo.com"
-									target="_self"> <span class="qodef-m-list-title-inner"> <span
-											class="qodef-m-list-title-icon"> <img loading="lazy" width="18" height="12"
-												src="wp-content/uploads/2021/08/Mail-Icon-1-1.png"
-												class="attachment-full size-full" alt="mail icon" decoding="async" />
-										</span> <span class="qodef-m-list-title-text">info@newworldcargo.com</span>
-									</span> </a> </span></div>
-					</div>
-				</div>
-				<div class="qodef-widget-holder qodef--right">
-					<div id="globefarer_core_icon_list_item-17"
-						class="widget widget_globefarer_core_icon_list_item qodef-top-bar-widget">
-						<div
-							class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific">
-							<span class="qodef-m-list-title"> <a itemprop="url" href="#" target="_self">
-									<span class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img
-												loading="lazy" width="20" height="17"
-												src="wp-content/uploads/2021/08/Support-Icon-top-header-1.png"
-												class="attachment-full size-full" alt="d" decoding="async" /> </span>
-										<span class="qodef-m-list-title-text">Support 24/7</span> </span> </a> </span>
-						</div>
-					</div>
-					<div id="block-42" class="widget widget_block qodef-top-bar-widget">
-						<hr
-							class="wp-block-separator has-text-color has-background has-white-background-color has-white-color" />
-					</div>
-					<div id="globefarer_core_icon_list_item-18"
-						class="widget widget_globefarer_core_icon_list_item qodef-top-bar-widget">
-						<div
-							class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific">
-							<span class="qodef-m-list-title"> <a itemprop="url" href="#" target="_self"> <span
-										class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img
-												loading="lazy" width="14" height="18"
-												src="wp-content/uploads/2021/08/Tracking-Icon-1.png"
-												class="attachment-full size-full" alt="d" decoding="async" /> </span>
-										<span class="qodef-m-list-title-text">Track and Trace</span> </span> </a>
-							</span></div>
-					</div>
-				</div>
-			</div>
-		</div>
+    <div id="qodef-top-area-inner">
+      <div class="qodef-widget-holder qodef--left">
+        <div id="block-19" class="widget widget_block qodef-top-bar-widget">
+          <div
+            class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+            <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+              <div class="widget widget_globefarer_core_icon_list_item">
+                <div
+                  class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific">
+                  <span class="qodef-m-list-title"> <a itemprop="url" href="tel:+260 763 297 287" target="_self"> <span
+                        class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img decoding="async"
+                            width="15" height="15" src="wp-content/uploads/2021/08/Phone-Icon-2-1.png"
+                            class="attachment-full size-full" alt="phone icon" />
+                        </span> <span class="qodef-m-list-title-text">+260 763 297 287</span>
+                      </span> </a> </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="block-41" class="widget widget_block qodef-top-bar-widget">
+          <hr class="wp-block-separator has-text-color has-background has-white-background-color has-white-color" />
+        </div>
+        <div id="globefarer_core_icon_list_item-11"
+          class="widget widget_globefarer_core_icon_list_item qodef-top-bar-widget">
+          <div
+            class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific">
+            <span class="qodef-m-list-title"> <a itemprop="url" href="mailto:info@newworldcargo.com" target="_self"> <span
+                  class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img loading="lazy" width="18"
+                      height="12" src="wp-content/uploads/2021/08/Mail-Icon-1-1.png" class="attachment-full size-full"
+                      alt="mail icon" decoding="async" />
+                  </span> <span class="qodef-m-list-title-text">info@newworldcargo.com</span>
+                </span> </a> </span>
+          </div>
+        </div>
+      </div>
+      <div class="qodef-widget-holder qodef--right">
+        <div id="globefarer_core_icon_list_item-17"
+          class="widget widget_globefarer_core_icon_list_item qodef-top-bar-widget">
+          <div
+            class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific">
+            <span class="qodef-m-list-title"> <a itemprop="url" href="#" target="_self">
+                <span class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img loading="lazy"
+                      width="20" height="17" src="wp-content/uploads/2021/08/Support-Icon-top-header-1.png"
+                      class="attachment-full size-full" alt="d" decoding="async" /> </span>
+                  <span class="qodef-m-list-title-text">Support 24/7</span> </span> </a> </span>
+          </div>
+        </div>
+        <div id="block-42" class="widget widget_block qodef-top-bar-widget">
+          <hr class="wp-block-separator has-text-color has-background has-white-background-color has-white-color" />
+        </div>
+        <div id="globefarer_core_icon_list_item-18"
+          class="widget widget_globefarer_core_icon_list_item qodef-top-bar-widget">
+          <div
+            class="qodef-shortcode qodef-m  qodef-icon-list-item qodef-icon--custom-icon qodef-title-tag--theme-specific">
+            <span class="qodef-m-list-title"> <a itemprop="url" href="#" target="_self"> <span
+                  class="qodef-m-list-title-inner"> <span class="qodef-m-list-title-icon"> <img loading="lazy" width="14"
+                      height="18" src="wp-content/uploads/2021/08/Tracking-Icon-1.png" class="attachment-full size-full"
+                      alt="d" decoding="async" /> </span>
+                  <span class="qodef-m-list-title-text">Track and Trace</span> </span> </a>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 <?php endif; ?>
 <header id="qodef-page-header" role="banner">
   <div id="qodef-page-header-inner" class="qodef-skin--light qodef-header-cursor--light">
@@ -119,41 +115,41 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                       </svg>About Us</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-team menu-item-7781">
-                  <a href="indexada4.html?team=mary-simens"><span class="qodef-menu-item-text"><svg
-                        class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                  <a href="#"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus"
+                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14"
+                        height="14" viewBox="0 0 14 14">
                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                       </svg>Our Team</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7780">
-                  <a href="indexe588.html?page_id=3353"><span class="qodef-menu-item-text"><svg
-                        class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                  <a href="#"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus"
+                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14"
+                        height="14" viewBox="0 0 14 14">
                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                       </svg>Meet The Crew</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-career-item menu-item-7710">
-                  <a href="index02f4.html?career-item=stocking-associate"><span class="qodef-menu-item-text"><svg
-                        class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                  <a href="#"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus"
+                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14"
+                        height="14" viewBox="0 0 14 14">
                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                       </svg>Job Application</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7782">
-                  <a href="indexc921.html?page_id=3772"><span class="qodef-menu-item-text"><svg
-                        class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                  <a href="#"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus"
+                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14"
+                        height="14" viewBox="0 0 14 14">
                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                       </svg>Available Positions</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7778">
-                  <a href="index1fcc.html?page_id=3094"><span class="qodef-menu-item-text"><svg
-                        class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                  <a href="#"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus"
+                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14"
+                        height="14" viewBox="0 0 14 14">
                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                       </svg>Our Clients</span></a>
@@ -167,13 +163,12 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                       </svg>FAQ Page</span></a>
                 </li>
                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711">
-                  <a href="404.php"
-                      ><span class=" qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus"
-                      xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14"
-                      height="14" viewBox="0 0 14 14">
-                      <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                      <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                    </svg>404 Error Page</span></a>
+                  <a href="404.php"><span class=" qodef-menu-item-text"><svg
+                        class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                        <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
+                        <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
+                      </svg>404 Error Page</span></a>
                 </li>
               </ul>
             </div>
@@ -199,17 +194,17 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                       </svg>Our Services</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7791">
-                  <a href="indexf03d.html?page_id=2814"><span class="qodef-menu-item-text"><svg
-                        class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                  <a href="#"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus"
+                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14"
+                        height="14" viewBox="0 0 14 14">
                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                       </svg>What We Do</span></a>
                 </li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7794">
-                  <a href="indexc76e.html?page_id=7756"><span class="qodef-menu-item-text"><svg
-                        class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                        xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                  <a href="#"><span class="qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus"
+                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14"
+                        height="14" viewBox="0 0 14 14">
                         <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                         <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                       </svg>Request a Freight</span></a>
@@ -710,63 +705,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                           xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                           <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
                           <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                        </svg>Main Home</span></a>
-                  </li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7769">
-                    <a href="index6293.html?page_id=1129"><span class="qodef-menu-item-text"><svg
-                          class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                          xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                          <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                          <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                        </svg>Cargo Shipping</span></a>
-                  </li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7771">
-                    <a href="index3ccd.html?page_id=2219"><span class="qodef-menu-item-text"><svg
-                          class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                          xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                          <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                          <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                        </svg>Maritime Transport</span></a>
-                  </li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7767">
-                    <a href="index871b.html?page_id=686"><span class="qodef-menu-item-text"><svg
-                          class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                          xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                          <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                          <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                        </svg>Air Freight</span></a>
-                  </li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7770">
-                    <a href="indexaa32.html?page_id=1144"><span class="qodef-menu-item-text"><svg
-                          class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                          xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                          <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                          <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                        </svg>Rail Freight</span></a>
-                  </li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7784">
-                    <a href="indexd7bc.html?page_id=6603"><span class="qodef-menu-item-text"><svg
-                          class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                          xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                          <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                          <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                        </svg>Coming Soon</span></a>
-                  </li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7768">
-                    <a href="indexcb76.html?page_id=984"><span class="qodef-menu-item-text"><svg
-                          class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                          xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                          <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                          <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                        </svg>Divided Slider Home</span></a>
-                  </li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7783">
-                    <a href="index2a00.html?page_id=3773"><span class="qodef-menu-item-text"><svg
-                          class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                          xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                          <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                          <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                        </svg>Landing</span></a>
+                        </svg>Home</span></a>
                   </li>
                 </ul>
               </div>
@@ -840,13 +779,12 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                         </svg>FAQ Page</span></a>
                   </li>
                   <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711">
-                    <a href="404.php"
-                        ><span class=" qodef-menu-item-text"><svg class="qodef-svg--plus qodef-menu-item-plus"
-                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14"
-                        height="14" viewBox="0 0 14 14">
-                        <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                        <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                      </svg>404 Error Page</span></a>
+                    <a href="404.php"><span class=" qodef-menu-item-text"><svg
+                          class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
+                          xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                          <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
+                          <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
+                        </svg>404 Error Page</span></a>
                   </li>
                 </ul>
               </div>
@@ -1339,62 +1277,6 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                       <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
                     </svg>Main Home</span></a>
               </li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7769">
-                <a href="index6293.html?page_id=1129"><span class="qodef-menu-item-text"><svg
-                      class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                      <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                      <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                    </svg>Cargo Shipping</span></a>
-              </li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7771">
-                <a href="index3ccd.html?page_id=2219"><span class="qodef-menu-item-text"><svg
-                      class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                      <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                      <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                    </svg>Maritime Transport</span></a>
-              </li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7767">
-                <a href="index871b.html?page_id=686"><span class="qodef-menu-item-text"><svg
-                      class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                      <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                      <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                    </svg>Air Freight</span></a>
-              </li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7770">
-                <a href="indexaa32.html?page_id=1144"><span class="qodef-menu-item-text"><svg
-                      class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                      <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                      <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                    </svg>Rail Freight</span></a>
-              </li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7784">
-                <a href="indexd7bc.html?page_id=6603"><span class="qodef-menu-item-text"><svg
-                      class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                      <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                      <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                    </svg>Coming Soon</span></a>
-              </li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7768">
-                <a href="indexcb76.html?page_id=984"><span class="qodef-menu-item-text"><svg
-                      class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                      <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                      <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                    </svg>Divided Slider Home</span></a>
-              </li>
-              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7783">
-                <a href="index2a00.html?page_id=3773"><span class="qodef-menu-item-text"><svg
-                      class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                      <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                      <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
-                    </svg>Landing</span></a>
-              </li>
             </ul>
           </div>
         </div>
@@ -1419,7 +1301,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                     </svg>About Us</span></a>
               </li>
               <li class="menu-item menu-item-type-post_type menu-item-object-team menu-item-7781">
-                <a href="indexada4.html?team=mary-simens"><span class="qodef-menu-item-text"><svg
+                <a href="#"><span class="qodef-menu-item-text"><svg
                       class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                       xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                       <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -1427,7 +1309,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                     </svg>Our Team</span></a>
               </li>
               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7780">
-                <a href="indexe588.html?page_id=3353"><span class="qodef-menu-item-text"><svg
+                <a href="#"><span class="qodef-menu-item-text"><svg
                       class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                       xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                       <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -1435,7 +1317,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                     </svg>Meet The Crew</span></a>
               </li>
               <li class="menu-item menu-item-type-post_type menu-item-object-career-item menu-item-7710">
-                <a href="index02f4.html?career-item=stocking-associate"><span class="qodef-menu-item-text"><svg
+                <a href="#"><span class="qodef-menu-item-text"><svg
                       class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                       xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                       <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -1443,7 +1325,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                     </svg>Job Application</span></a>
               </li>
               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7782">
-                <a href="indexc921.html?page_id=3772"><span class="qodef-menu-item-text"><svg
+                <a href="#"><span class="qodef-menu-item-text"><svg
                       class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                       xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                       <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -1451,7 +1333,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                     </svg>Available Positions</span></a>
               </li>
               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7778">
-                <a href="index1fcc.html?page_id=3094"><span class="qodef-menu-item-text"><svg
+                <a href="#"><span class="qodef-menu-item-text"><svg
                       class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                       xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                       <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -1467,11 +1349,11 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
                     </svg>FAQ Page</span></a>
               </li>
               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7711">
-                <a href="404.php"><svg
-                        class=" qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
-                  xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
-                  <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
-                  <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" /></svg>404 Error Page</span>
+                <a href="404.php"><svg class=" qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+                    <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
+                    <path class="qodef-m-vertical" d="M0,0H2V14H0Z" transform="translate(6)" />
+                  </svg>404 Error Page</span>
                 </a>
               </li>
             </ul>
@@ -1873,7 +1755,7 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
           <div class="qodef-drop-down-second-inner">
             <ul class="sub-menu">
               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7793">
-                <a href="index0e30.html?page_id=3235"><span class="qodef-menu-item-text"><svg
+                <a href="contact.php"><span class="qodef-menu-item-text"><svg
                       class="qodef-svg--plus qodef-menu-item-plus" xmlns="http://www.w3.org/2000/svg"
                       xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
                       <path class="qodef-m-horizontal" d="M0,0H14V2H0Z" transform="translate(0 6)" />
@@ -1897,19 +1779,19 @@ $isHomePage = preg_match("#^{$basePath}/?(index\.php|index\.html)?$#", $currentP
 </header>
 
 <style>
-   .qodef-header-sticky .qodef-header-sticky-inner {
-      padding-left: 0px;
-      padding-right: 0px;
-    }
+  .qodef-header-sticky .qodef-header-sticky-inner {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
 
-    #qodef-page-header .qodef-header-logo-link {
-      height: 120px;
-      padding: 0 0 0 150px;
-    }
+  #qodef-page-header .qodef-header-logo-link {
+    height: 120px;
+    padding: 0 0 0 150px;
+  }
 
-    #qodef-page-mobile-header .qodef-mobile-header-logo-link {
-      padding: 0 0 0 40px;
-    }
+  #qodef-page-mobile-header .qodef-mobile-header-logo-link {
+    padding: 0 0 0 40px;
+  }
 
   .qodef-header--standard #qodef-page-header {
     background-color: rgba(255, 205, 4, 0.9);
